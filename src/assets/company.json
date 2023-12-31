@@ -1,0 +1,4847 @@
+[
+    {
+        "Ticker": 1101,
+        "Name": "台泥",
+        "Industry": "水泥工業"
+    },
+    {
+        "Ticker": 1102,
+        "Name": "亞泥",
+        "Industry": "水泥工業"
+    },
+    {
+        "Ticker": 1103,
+        "Name": "嘉泥",
+        "Industry": "水泥工業"
+    },
+    {
+        "Ticker": 1104,
+        "Name": "環泥",
+        "Industry": "水泥工業"
+    },
+    {
+        "Ticker": 1108,
+        "Name": "幸福",
+        "Industry": "水泥工業"
+    },
+    {
+        "Ticker": 1109,
+        "Name": "信大",
+        "Industry": "水泥工業"
+    },
+    {
+        "Ticker": 1110,
+        "Name": "東泥",
+        "Industry": "水泥工業"
+    },
+    {
+        "Ticker": 1201,
+        "Name": "味全",
+        "Industry": "食品工業"
+    },
+    {
+        "Ticker": 1203,
+        "Name": "味王",
+        "Industry": "食品工業"
+    },
+    {
+        "Ticker": 1210,
+        "Name": "大成",
+        "Industry": "食品工業"
+    },
+    {
+        "Ticker": 1213,
+        "Name": "大飲",
+        "Industry": "食品工業"
+    },
+    {
+        "Ticker": 1215,
+        "Name": "卜蜂",
+        "Industry": "食品工業"
+    },
+    {
+        "Ticker": 1216,
+        "Name": "統一",
+        "Industry": "食品工業"
+    },
+    {
+        "Ticker": 1217,
+        "Name": "愛之味",
+        "Industry": "食品工業"
+    },
+    {
+        "Ticker": 1218,
+        "Name": "泰山",
+        "Industry": "食品工業"
+    },
+    {
+        "Ticker": 1219,
+        "Name": "福壽",
+        "Industry": "食品工業"
+    },
+    {
+        "Ticker": 1220,
+        "Name": "台榮",
+        "Industry": "食品工業"
+    },
+    {
+        "Ticker": 1225,
+        "Name": "福懋油",
+        "Industry": "食品工業"
+    },
+    {
+        "Ticker": 1227,
+        "Name": "佳格",
+        "Industry": "食品工業"
+    },
+    {
+        "Ticker": 1229,
+        "Name": "聯華",
+        "Industry": "食品工業"
+    },
+    {
+        "Ticker": 1231,
+        "Name": "聯華食",
+        "Industry": "食品工業"
+    },
+    {
+        "Ticker": 1232,
+        "Name": "大統益",
+        "Industry": "食品工業"
+    },
+    {
+        "Ticker": 1233,
+        "Name": "天仁",
+        "Industry": "食品工業"
+    },
+    {
+        "Ticker": 1234,
+        "Name": "黑松",
+        "Industry": "食品工業"
+    },
+    {
+        "Ticker": 1235,
+        "Name": "興泰",
+        "Industry": "食品工業"
+    },
+    {
+        "Ticker": 1236,
+        "Name": "宏亞",
+        "Industry": "食品工業"
+    },
+    {
+        "Ticker": 1256,
+        "Name": "鮮活果汁-KY",
+        "Industry": "食品工業"
+    },
+    {
+        "Ticker": 1301,
+        "Name": "台塑",
+        "Industry": "塑膠工業"
+    },
+    {
+        "Ticker": 1303,
+        "Name": "南亞",
+        "Industry": "塑膠工業"
+    },
+    {
+        "Ticker": 1304,
+        "Name": "台聚",
+        "Industry": "塑膠工業"
+    },
+    {
+        "Ticker": 1305,
+        "Name": "華夏",
+        "Industry": "塑膠工業"
+    },
+    {
+        "Ticker": 1307,
+        "Name": "三芳",
+        "Industry": "塑膠工業"
+    },
+    {
+        "Ticker": 1308,
+        "Name": "亞聚",
+        "Industry": "塑膠工業"
+    },
+    {
+        "Ticker": 1309,
+        "Name": "台達化",
+        "Industry": "塑膠工業"
+    },
+    {
+        "Ticker": 1310,
+        "Name": "台苯",
+        "Industry": "塑膠工業"
+    },
+    {
+        "Ticker": 1312,
+        "Name": "國喬",
+        "Industry": "塑膠工業"
+    },
+    {
+        "Ticker": 1313,
+        "Name": "聯成",
+        "Industry": "塑膠工業"
+    },
+    {
+        "Ticker": 1314,
+        "Name": "中石化",
+        "Industry": "塑膠工業"
+    },
+    {
+        "Ticker": 1315,
+        "Name": "達新",
+        "Industry": "塑膠工業"
+    },
+    {
+        "Ticker": 1316,
+        "Name": "上曜",
+        "Industry": "建材營造"
+    },
+    {
+        "Ticker": 1319,
+        "Name": "東陽",
+        "Industry": "汽車工業"
+    },
+    {
+        "Ticker": 1321,
+        "Name": "大洋",
+        "Industry": "塑膠工業"
+    },
+    {
+        "Ticker": 1323,
+        "Name": "永裕",
+        "Industry": "塑膠工業"
+    },
+    {
+        "Ticker": 1324,
+        "Name": "地球",
+        "Industry": "塑膠工業"
+    },
+    {
+        "Ticker": 1325,
+        "Name": "恒大",
+        "Industry": "塑膠工業"
+    },
+    {
+        "Ticker": 1326,
+        "Name": "台化",
+        "Industry": "塑膠工業"
+    },
+    {
+        "Ticker": 1337,
+        "Name": "再生-KY",
+        "Industry": "塑膠工業"
+    },
+    {
+        "Ticker": 1338,
+        "Name": "廣華-KY",
+        "Industry": "汽車工業"
+    },
+    {
+        "Ticker": 1339,
+        "Name": "昭輝",
+        "Industry": "汽車工業"
+    },
+    {
+        "Ticker": 1340,
+        "Name": "勝悅-KY",
+        "Industry": "塑膠工業"
+    },
+    {
+        "Ticker": 1341,
+        "Name": "富林-KY",
+        "Industry": "塑膠工業"
+    },
+    {
+        "Ticker": 1342,
+        "Name": "八貫",
+        "Industry": "其他"
+    },
+    {
+        "Ticker": 1402,
+        "Name": "遠東新",
+        "Industry": "紡織纖維"
+    },
+    {
+        "Ticker": 1409,
+        "Name": "新纖",
+        "Industry": "紡織纖維"
+    },
+    {
+        "Ticker": 1410,
+        "Name": "南染",
+        "Industry": "紡織纖維"
+    },
+    {
+        "Ticker": 1413,
+        "Name": "宏洲",
+        "Industry": "紡織纖維"
+    },
+    {
+        "Ticker": 1414,
+        "Name": "東和",
+        "Industry": "紡織纖維"
+    },
+    {
+        "Ticker": 1416,
+        "Name": "廣豐",
+        "Industry": "其他"
+    },
+    {
+        "Ticker": 1417,
+        "Name": "嘉裕",
+        "Industry": "紡織纖維"
+    },
+    {
+        "Ticker": 1418,
+        "Name": "東華",
+        "Industry": "紡織纖維"
+    },
+    {
+        "Ticker": 1419,
+        "Name": "新紡",
+        "Industry": "紡織纖維"
+    },
+    {
+        "Ticker": 1423,
+        "Name": "利華",
+        "Industry": "紡織纖維"
+    },
+    {
+        "Ticker": 1432,
+        "Name": "大魯閣",
+        "Industry": "貿易百貨"
+    },
+    {
+        "Ticker": 1434,
+        "Name": "福懋",
+        "Industry": "紡織纖維"
+    },
+    {
+        "Ticker": 1435,
+        "Name": "中福",
+        "Industry": "其他"
+    },
+    {
+        "Ticker": 1436,
+        "Name": "華友聯",
+        "Industry": "建材營造"
+    },
+    {
+        "Ticker": 1437,
+        "Name": "勤益控",
+        "Industry": "其他"
+    },
+    {
+        "Ticker": 1438,
+        "Name": "三地開發",
+        "Industry": "建材營造"
+    },
+    {
+        "Ticker": 1439,
+        "Name": "雋揚",
+        "Industry": "紡織纖維"
+    },
+    {
+        "Ticker": 1440,
+        "Name": "南紡",
+        "Industry": "紡織纖維"
+    },
+    {
+        "Ticker": 1441,
+        "Name": "大東",
+        "Industry": "紡織纖維"
+    },
+    {
+        "Ticker": 1442,
+        "Name": "名軒",
+        "Industry": "建材營造"
+    },
+    {
+        "Ticker": 1443,
+        "Name": "立益物流",
+        "Industry": "其他"
+    },
+    {
+        "Ticker": 1444,
+        "Name": "力麗",
+        "Industry": "紡織纖維"
+    },
+    {
+        "Ticker": 1445,
+        "Name": "大宇",
+        "Industry": "紡織纖維"
+    },
+    {
+        "Ticker": 1446,
+        "Name": "宏和",
+        "Industry": "紡織纖維"
+    },
+    {
+        "Ticker": 1447,
+        "Name": "力鵬",
+        "Industry": "紡織纖維"
+    },
+    {
+        "Ticker": 1449,
+        "Name": "佳和",
+        "Industry": "紡織纖維"
+    },
+    {
+        "Ticker": 1451,
+        "Name": "年興",
+        "Industry": "紡織纖維"
+    },
+    {
+        "Ticker": 1452,
+        "Name": "宏益",
+        "Industry": "紡織纖維"
+    },
+    {
+        "Ticker": 1453,
+        "Name": "大將",
+        "Industry": "建材營造"
+    },
+    {
+        "Ticker": 1454,
+        "Name": "台富",
+        "Industry": "紡織纖維"
+    },
+    {
+        "Ticker": 1455,
+        "Name": "集盛",
+        "Industry": "紡織纖維"
+    },
+    {
+        "Ticker": 1456,
+        "Name": "怡華",
+        "Industry": "建材營造"
+    },
+    {
+        "Ticker": 1457,
+        "Name": "宜進",
+        "Industry": "紡織纖維"
+    },
+    {
+        "Ticker": 1459,
+        "Name": "聯發",
+        "Industry": "紡織纖維"
+    },
+    {
+        "Ticker": 1460,
+        "Name": "宏遠",
+        "Industry": "紡織纖維"
+    },
+    {
+        "Ticker": 1463,
+        "Name": "強盛",
+        "Industry": "紡織纖維"
+    },
+    {
+        "Ticker": 1464,
+        "Name": "得力",
+        "Industry": "紡織纖維"
+    },
+    {
+        "Ticker": 1465,
+        "Name": "偉全",
+        "Industry": "紡織纖維"
+    },
+    {
+        "Ticker": 1466,
+        "Name": "聚隆",
+        "Industry": "紡織纖維"
+    },
+    {
+        "Ticker": 1467,
+        "Name": "南緯",
+        "Industry": "紡織纖維"
+    },
+    {
+        "Ticker": 1468,
+        "Name": "昶和",
+        "Industry": "紡織纖維"
+    },
+    {
+        "Ticker": 1470,
+        "Name": "大統新創",
+        "Industry": "紡織纖維"
+    },
+    {
+        "Ticker": 1471,
+        "Name": "首利",
+        "Industry": "電子零組件"
+    },
+    {
+        "Ticker": 1472,
+        "Name": "三洋實業",
+        "Industry": "紡織纖維"
+    },
+    {
+        "Ticker": 1473,
+        "Name": "台南",
+        "Industry": "紡織纖維"
+    },
+    {
+        "Ticker": 1474,
+        "Name": "弘裕",
+        "Industry": "紡織纖維"
+    },
+    {
+        "Ticker": 1475,
+        "Name": "業旺",
+        "Industry": "紡織纖維"
+    },
+    {
+        "Ticker": 1476,
+        "Name": "儒鴻",
+        "Industry": "紡織纖維"
+    },
+    {
+        "Ticker": 1477,
+        "Name": "聚陽",
+        "Industry": "紡織纖維"
+    },
+    {
+        "Ticker": 1503,
+        "Name": "士電",
+        "Industry": "電機機械"
+    },
+    {
+        "Ticker": 1504,
+        "Name": "東元",
+        "Industry": "電機機械"
+    },
+    {
+        "Ticker": 1506,
+        "Name": "正道",
+        "Industry": "電機機械"
+    },
+    {
+        "Ticker": 1512,
+        "Name": "瑞利",
+        "Industry": "汽車工業"
+    },
+    {
+        "Ticker": 1513,
+        "Name": "中興電",
+        "Industry": "電機機械"
+    },
+    {
+        "Ticker": 1514,
+        "Name": "亞力",
+        "Industry": "電機機械"
+    },
+    {
+        "Ticker": 1515,
+        "Name": "力山",
+        "Industry": "電機機械"
+    },
+    {
+        "Ticker": 1516,
+        "Name": "川飛",
+        "Industry": "其他"
+    },
+    {
+        "Ticker": 1517,
+        "Name": "利奇",
+        "Industry": "電機機械"
+    },
+    {
+        "Ticker": 1519,
+        "Name": "華城",
+        "Industry": "電機機械"
+    },
+    {
+        "Ticker": 1521,
+        "Name": "大億",
+        "Industry": "汽車工業"
+    },
+    {
+        "Ticker": 1522,
+        "Name": "堤維西",
+        "Industry": "汽車工業"
+    },
+    {
+        "Ticker": 1524,
+        "Name": "耿鼎",
+        "Industry": "汽車工業"
+    },
+    {
+        "Ticker": 1525,
+        "Name": "江申",
+        "Industry": "汽車工業"
+    },
+    {
+        "Ticker": 1526,
+        "Name": "日馳",
+        "Industry": "電機機械"
+    },
+    {
+        "Ticker": 1527,
+        "Name": "鑽全",
+        "Industry": "電機機械"
+    },
+    {
+        "Ticker": 1528,
+        "Name": "恩德",
+        "Industry": "電機機械"
+    },
+    {
+        "Ticker": 1529,
+        "Name": "樂事綠能",
+        "Industry": "電機機械"
+    },
+    {
+        "Ticker": 1530,
+        "Name": "亞崴",
+        "Industry": "電機機械"
+    },
+    {
+        "Ticker": 1531,
+        "Name": "高林股",
+        "Industry": "電機機械"
+    },
+    {
+        "Ticker": 1532,
+        "Name": "勤美",
+        "Industry": "電機機械"
+    },
+    {
+        "Ticker": 1533,
+        "Name": "車王電",
+        "Industry": "汽車工業"
+    },
+    {
+        "Ticker": 1535,
+        "Name": "中宇",
+        "Industry": "電機機械"
+    },
+    {
+        "Ticker": 1536,
+        "Name": "和大",
+        "Industry": "汽車工業"
+    },
+    {
+        "Ticker": 1537,
+        "Name": "廣隆",
+        "Industry": "電機機械"
+    },
+    {
+        "Ticker": 1538,
+        "Name": "正峰",
+        "Industry": "電機機械"
+    },
+    {
+        "Ticker": 1539,
+        "Name": "巨庭",
+        "Industry": "電機機械"
+    },
+    {
+        "Ticker": 1540,
+        "Name": "喬福",
+        "Industry": "電機機械"
+    },
+    {
+        "Ticker": 1541,
+        "Name": "錩泰",
+        "Industry": "電機機械"
+    },
+    {
+        "Ticker": 1558,
+        "Name": "伸興",
+        "Industry": "電機機械"
+    },
+    {
+        "Ticker": 1560,
+        "Name": "中砂",
+        "Industry": "電機機械"
+    },
+    {
+        "Ticker": 1568,
+        "Name": "倉佑",
+        "Industry": "汽車工業"
+    },
+    {
+        "Ticker": 1582,
+        "Name": "信錦",
+        "Industry": "電子零組件"
+    },
+    {
+        "Ticker": 1583,
+        "Name": "程泰",
+        "Industry": "電機機械"
+    },
+    {
+        "Ticker": 1587,
+        "Name": "吉茂",
+        "Industry": "汽車工業"
+    },
+    {
+        "Ticker": 1589,
+        "Name": "永冠-KY",
+        "Industry": "電機機械"
+    },
+    {
+        "Ticker": 1590,
+        "Name": "亞德客-KY",
+        "Industry": "電機機械"
+    },
+    {
+        "Ticker": 1597,
+        "Name": "直得",
+        "Industry": "電機機械"
+    },
+    {
+        "Ticker": 1598,
+        "Name": "岱宇",
+        "Industry": "生技醫療"
+    },
+    {
+        "Ticker": 1603,
+        "Name": "華電",
+        "Industry": "電器電纜"
+    },
+    {
+        "Ticker": 1604,
+        "Name": "聲寶",
+        "Industry": "電器電纜"
+    },
+    {
+        "Ticker": 1605,
+        "Name": "華新",
+        "Industry": "電器電纜"
+    },
+    {
+        "Ticker": 1608,
+        "Name": "華榮",
+        "Industry": "電器電纜"
+    },
+    {
+        "Ticker": 1609,
+        "Name": "大亞",
+        "Industry": "電器電纜"
+    },
+    {
+        "Ticker": 1611,
+        "Name": "中電",
+        "Industry": "電器電纜"
+    },
+    {
+        "Ticker": 1612,
+        "Name": "宏泰",
+        "Industry": "電器電纜"
+    },
+    {
+        "Ticker": 1614,
+        "Name": "三洋電",
+        "Industry": "電器電纜"
+    },
+    {
+        "Ticker": 1615,
+        "Name": "大山",
+        "Industry": "電器電纜"
+    },
+    {
+        "Ticker": 1616,
+        "Name": "億泰",
+        "Industry": "電器電纜"
+    },
+    {
+        "Ticker": 1617,
+        "Name": "榮星",
+        "Industry": "電器電纜"
+    },
+    {
+        "Ticker": 1618,
+        "Name": "合機",
+        "Industry": "電器電纜"
+    },
+    {
+        "Ticker": 1626,
+        "Name": "艾美特-KY",
+        "Industry": "電器電纜"
+    },
+    {
+        "Ticker": 1701,
+        "Name": "中化",
+        "Industry": "生技醫療"
+    },
+    {
+        "Ticker": 1702,
+        "Name": "南僑",
+        "Industry": "食品工業"
+    },
+    {
+        "Ticker": 1707,
+        "Name": "葡萄王",
+        "Industry": "生技醫療"
+    },
+    {
+        "Ticker": 1708,
+        "Name": "東鹼",
+        "Industry": "化學工業"
+    },
+    {
+        "Ticker": 1709,
+        "Name": "和益",
+        "Industry": "化學工業"
+    },
+    {
+        "Ticker": 1710,
+        "Name": "東聯",
+        "Industry": "化學工業"
+    },
+    {
+        "Ticker": 1711,
+        "Name": "永光",
+        "Industry": "化學工業"
+    },
+    {
+        "Ticker": 1712,
+        "Name": "興農",
+        "Industry": "化學工業"
+    },
+    {
+        "Ticker": 1713,
+        "Name": "國化",
+        "Industry": "化學工業"
+    },
+    {
+        "Ticker": 1714,
+        "Name": "和桐",
+        "Industry": "化學工業"
+    },
+    {
+        "Ticker": 1717,
+        "Name": "長興",
+        "Industry": "化學工業"
+    },
+    {
+        "Ticker": 1718,
+        "Name": "中纖",
+        "Industry": "化學工業"
+    },
+    {
+        "Ticker": 1720,
+        "Name": "生達",
+        "Industry": "生技醫療"
+    },
+    {
+        "Ticker": 1721,
+        "Name": "三晃",
+        "Industry": "化學工業"
+    },
+    {
+        "Ticker": 1722,
+        "Name": "台肥",
+        "Industry": "化學工業"
+    },
+    {
+        "Ticker": 1723,
+        "Name": "中碳",
+        "Industry": "化學工業"
+    },
+    {
+        "Ticker": 1725,
+        "Name": "元禎",
+        "Industry": "化學工業"
+    },
+    {
+        "Ticker": 1726,
+        "Name": "永記",
+        "Industry": "化學工業"
+    },
+    {
+        "Ticker": 1727,
+        "Name": "中華化",
+        "Industry": "化學工業"
+    },
+    {
+        "Ticker": 1730,
+        "Name": "花仙子",
+        "Industry": "化學工業"
+    },
+    {
+        "Ticker": 1731,
+        "Name": "美吾華",
+        "Industry": "生技醫療"
+    },
+    {
+        "Ticker": 1732,
+        "Name": "毛寶",
+        "Industry": "化學工業"
+    },
+    {
+        "Ticker": 1733,
+        "Name": "五鼎",
+        "Industry": "生技醫療"
+    },
+    {
+        "Ticker": 1734,
+        "Name": "杏輝",
+        "Industry": "生技醫療"
+    },
+    {
+        "Ticker": 1735,
+        "Name": "日勝化",
+        "Industry": "化學工業"
+    },
+    {
+        "Ticker": 1736,
+        "Name": "喬山",
+        "Industry": "生技醫療"
+    },
+    {
+        "Ticker": 1737,
+        "Name": "臺鹽",
+        "Industry": "食品工業"
+    },
+    {
+        "Ticker": 1752,
+        "Name": "南光",
+        "Industry": "生技醫療"
+    },
+    {
+        "Ticker": 1760,
+        "Name": "寶齡富錦",
+        "Industry": "生技醫療"
+    },
+    {
+        "Ticker": 1762,
+        "Name": "中化生",
+        "Industry": "生技醫療"
+    },
+    {
+        "Ticker": 1773,
+        "Name": "勝一",
+        "Industry": "化學工業"
+    },
+    {
+        "Ticker": 1776,
+        "Name": "展宇",
+        "Industry": "化學工業"
+    },
+    {
+        "Ticker": 1783,
+        "Name": "和康生",
+        "Industry": "生技醫療"
+    },
+    {
+        "Ticker": 1786,
+        "Name": "科妍",
+        "Industry": "生技醫療"
+    },
+    {
+        "Ticker": 1789,
+        "Name": "神隆",
+        "Industry": "生技醫療"
+    },
+    {
+        "Ticker": 1795,
+        "Name": "美時",
+        "Industry": "生技醫療"
+    },
+    {
+        "Ticker": 1802,
+        "Name": "台玻",
+        "Industry": "玻璃陶瓷"
+    },
+    {
+        "Ticker": 1805,
+        "Name": "寶徠",
+        "Industry": "建材營造"
+    },
+    {
+        "Ticker": 1806,
+        "Name": "冠軍",
+        "Industry": "玻璃陶瓷"
+    },
+    {
+        "Ticker": 1808,
+        "Name": "潤隆",
+        "Industry": "建材營造"
+    },
+    {
+        "Ticker": 1809,
+        "Name": "中釉",
+        "Industry": "玻璃陶瓷"
+    },
+    {
+        "Ticker": 1810,
+        "Name": "和成",
+        "Industry": "玻璃陶瓷"
+    },
+    {
+        "Ticker": 1817,
+        "Name": "凱撒衛",
+        "Industry": "玻璃陶瓷"
+    },
+    {
+        "Ticker": 1903,
+        "Name": "士紙",
+        "Industry": "造紙工業"
+    },
+    {
+        "Ticker": 1904,
+        "Name": "正隆",
+        "Industry": "造紙工業"
+    },
+    {
+        "Ticker": 1905,
+        "Name": "華紙",
+        "Industry": "造紙工業"
+    },
+    {
+        "Ticker": 1906,
+        "Name": "寶隆",
+        "Industry": "造紙工業"
+    },
+    {
+        "Ticker": 1907,
+        "Name": "永豐餘",
+        "Industry": "造紙工業"
+    },
+    {
+        "Ticker": 1909,
+        "Name": "榮成",
+        "Industry": "造紙工業"
+    },
+    {
+        "Ticker": 2002,
+        "Name": "中鋼",
+        "Industry": "鋼鐵工業"
+    },
+    {
+        "Ticker": 2006,
+        "Name": "東和鋼鐵",
+        "Industry": "鋼鐵工業"
+    },
+    {
+        "Ticker": 2007,
+        "Name": "燁興",
+        "Industry": "鋼鐵工業"
+    },
+    {
+        "Ticker": 2008,
+        "Name": "高興昌",
+        "Industry": "鋼鐵工業"
+    },
+    {
+        "Ticker": 2009,
+        "Name": "第一銅",
+        "Industry": "鋼鐵工業"
+    },
+    {
+        "Ticker": 2010,
+        "Name": "春源",
+        "Industry": "鋼鐵工業"
+    },
+    {
+        "Ticker": 2012,
+        "Name": "春雨",
+        "Industry": "鋼鐵工業"
+    },
+    {
+        "Ticker": 2013,
+        "Name": "中鋼構",
+        "Industry": "鋼鐵工業"
+    },
+    {
+        "Ticker": 2014,
+        "Name": "中鴻",
+        "Industry": "鋼鐵工業"
+    },
+    {
+        "Ticker": 2015,
+        "Name": "豐興",
+        "Industry": "鋼鐵工業"
+    },
+    {
+        "Ticker": 2017,
+        "Name": "官田鋼",
+        "Industry": "鋼鐵工業"
+    },
+    {
+        "Ticker": 2020,
+        "Name": "美亞",
+        "Industry": "鋼鐵工業"
+    },
+    {
+        "Ticker": 2022,
+        "Name": "聚亨",
+        "Industry": "鋼鐵工業"
+    },
+    {
+        "Ticker": 2023,
+        "Name": "燁輝",
+        "Industry": "鋼鐵工業"
+    },
+    {
+        "Ticker": 2024,
+        "Name": "志聯",
+        "Industry": "鋼鐵工業"
+    },
+    {
+        "Ticker": 2025,
+        "Name": "千興",
+        "Industry": "鋼鐵工業"
+    },
+    {
+        "Ticker": 2027,
+        "Name": "大成鋼",
+        "Industry": "鋼鐵工業"
+    },
+    {
+        "Ticker": 2028,
+        "Name": "威致",
+        "Industry": "鋼鐵工業"
+    },
+    {
+        "Ticker": 2029,
+        "Name": "盛餘",
+        "Industry": "鋼鐵工業"
+    },
+    {
+        "Ticker": 2030,
+        "Name": "彰源",
+        "Industry": "鋼鐵工業"
+    },
+    {
+        "Ticker": 2031,
+        "Name": "新光鋼",
+        "Industry": "鋼鐵工業"
+    },
+    {
+        "Ticker": 2032,
+        "Name": "新鋼",
+        "Industry": "鋼鐵工業"
+    },
+    {
+        "Ticker": 2033,
+        "Name": "佳大",
+        "Industry": "鋼鐵工業"
+    },
+    {
+        "Ticker": 2034,
+        "Name": "允強",
+        "Industry": "鋼鐵工業"
+    },
+    {
+        "Ticker": 2038,
+        "Name": "海光",
+        "Industry": "鋼鐵工業"
+    },
+    {
+        "Ticker": 2049,
+        "Name": "上銀",
+        "Industry": "電機機械"
+    },
+    {
+        "Ticker": 2059,
+        "Name": "川湖",
+        "Industry": "電子零組件"
+    },
+    {
+        "Ticker": 2062,
+        "Name": "橋椿",
+        "Industry": "其他"
+    },
+    {
+        "Ticker": 2069,
+        "Name": "運錩",
+        "Industry": "鋼鐵工業"
+    },
+    {
+        "Ticker": 2101,
+        "Name": "南港",
+        "Industry": "橡膠工業"
+    },
+    {
+        "Ticker": 2102,
+        "Name": "泰豐",
+        "Industry": "橡膠工業"
+    },
+    {
+        "Ticker": 2103,
+        "Name": "台橡",
+        "Industry": "橡膠工業"
+    },
+    {
+        "Ticker": 2104,
+        "Name": "國際中橡",
+        "Industry": "橡膠工業"
+    },
+    {
+        "Ticker": 2105,
+        "Name": "正新",
+        "Industry": "橡膠工業"
+    },
+    {
+        "Ticker": 2106,
+        "Name": "建大",
+        "Industry": "橡膠工業"
+    },
+    {
+        "Ticker": 2107,
+        "Name": "厚生",
+        "Industry": "橡膠工業"
+    },
+    {
+        "Ticker": 2108,
+        "Name": "南帝",
+        "Industry": "橡膠工業"
+    },
+    {
+        "Ticker": 2109,
+        "Name": "華豐",
+        "Industry": "橡膠工業"
+    },
+    {
+        "Ticker": 2114,
+        "Name": "鑫永銓",
+        "Industry": "橡膠工業"
+    },
+    {
+        "Ticker": 2115,
+        "Name": "六暉-KY",
+        "Industry": "汽車工業"
+    },
+    {
+        "Ticker": 2201,
+        "Name": "裕隆",
+        "Industry": "汽車工業"
+    },
+    {
+        "Ticker": 2204,
+        "Name": "中華",
+        "Industry": "汽車工業"
+    },
+    {
+        "Ticker": 2206,
+        "Name": "三陽工業",
+        "Industry": "汽車工業"
+    },
+    {
+        "Ticker": 2207,
+        "Name": "和泰車",
+        "Industry": "汽車工業"
+    },
+    {
+        "Ticker": 2208,
+        "Name": "台船",
+        "Industry": "航運業"
+    },
+    {
+        "Ticker": 2211,
+        "Name": "長榮鋼",
+        "Industry": "鋼鐵工業"
+    },
+    {
+        "Ticker": 2227,
+        "Name": "裕日車",
+        "Industry": "汽車工業"
+    },
+    {
+        "Ticker": 2228,
+        "Name": "劍麟",
+        "Industry": "汽車工業"
+    },
+    {
+        "Ticker": 2231,
+        "Name": "為升",
+        "Industry": "汽車工業"
+    },
+    {
+        "Ticker": 2233,
+        "Name": "宇隆",
+        "Industry": "汽車工業"
+    },
+    {
+        "Ticker": 2236,
+        "Name": "百達-KY",
+        "Industry": "汽車工業"
+    },
+    {
+        "Ticker": 2239,
+        "Name": "英利-KY",
+        "Industry": "汽車工業"
+    },
+    {
+        "Ticker": 2241,
+        "Name": "艾姆勒",
+        "Industry": "汽車工業"
+    },
+    {
+        "Ticker": 2243,
+        "Name": "宏旭-KY",
+        "Industry": "汽車工業"
+    },
+    {
+        "Ticker": 2247,
+        "Name": "汎德永業",
+        "Industry": "汽車工業"
+    },
+    {
+        "Ticker": 2250,
+        "Name": "IKKA-KY",
+        "Industry": "汽車工業"
+    },
+    {
+        "Ticker": 2301,
+        "Name": "光寶科",
+        "Industry": "電腦及週邊"
+    },
+    {
+        "Ticker": 2302,
+        "Name": "麗正",
+        "Industry": "半導體"
+    },
+    {
+        "Ticker": 2303,
+        "Name": "聯電",
+        "Industry": "半導體"
+    },
+    {
+        "Ticker": 2305,
+        "Name": "全友",
+        "Industry": "電腦及週邊"
+    },
+    {
+        "Ticker": 2308,
+        "Name": "台達電",
+        "Industry": "電子零組件"
+    },
+    {
+        "Ticker": 2312,
+        "Name": "金寶",
+        "Industry": "其他電子業"
+    },
+    {
+        "Ticker": 2313,
+        "Name": "華通",
+        "Industry": "電子零組件"
+    },
+    {
+        "Ticker": 2314,
+        "Name": "台揚",
+        "Industry": "通信網路業"
+    },
+    {
+        "Ticker": 2316,
+        "Name": "楠梓電",
+        "Industry": "電子零組件"
+    },
+    {
+        "Ticker": 2317,
+        "Name": "鴻海",
+        "Industry": "其他電子業"
+    },
+    {
+        "Ticker": 2321,
+        "Name": "東訊",
+        "Industry": "通信網路業"
+    },
+    {
+        "Ticker": 2323,
+        "Name": "中環",
+        "Industry": "光電業"
+    },
+    {
+        "Ticker": 2324,
+        "Name": "仁寶",
+        "Industry": "電腦及週邊"
+    },
+    {
+        "Ticker": 2327,
+        "Name": "國巨",
+        "Industry": "電子零組件"
+    },
+    {
+        "Ticker": 2328,
+        "Name": "廣宇",
+        "Industry": "電子零組件"
+    },
+    {
+        "Ticker": 2329,
+        "Name": "華泰",
+        "Industry": "半導體"
+    },
+    {
+        "Ticker": 2330,
+        "Name": "台積電",
+        "Industry": "半導體"
+    },
+    {
+        "Ticker": 2331,
+        "Name": "精英",
+        "Industry": "電腦及週邊"
+    },
+    {
+        "Ticker": 2332,
+        "Name": "友訊",
+        "Industry": "通信網路業"
+    },
+    {
+        "Ticker": 2337,
+        "Name": "旺宏",
+        "Industry": "半導體"
+    },
+    {
+        "Ticker": 2338,
+        "Name": "光罩",
+        "Industry": "半導體"
+    },
+    {
+        "Ticker": 2340,
+        "Name": "台亞",
+        "Industry": "半導體"
+    },
+    {
+        "Ticker": 2342,
+        "Name": "茂矽",
+        "Industry": "半導體"
+    },
+    {
+        "Ticker": 2344,
+        "Name": "華邦電",
+        "Industry": "半導體"
+    },
+    {
+        "Ticker": 2345,
+        "Name": "智邦",
+        "Industry": "通信網路業"
+    },
+    {
+        "Ticker": 2347,
+        "Name": "聯強",
+        "Industry": "電子通路業"
+    },
+    {
+        "Ticker": 2348,
+        "Name": "海悅",
+        "Industry": "其他"
+    },
+    {
+        "Ticker": 2349,
+        "Name": "錸德",
+        "Industry": "光電業"
+    },
+    {
+        "Ticker": 2351,
+        "Name": "順德",
+        "Industry": "半導體"
+    },
+    {
+        "Ticker": 2352,
+        "Name": "佳世達",
+        "Industry": "電腦及週邊"
+    },
+    {
+        "Ticker": 2353,
+        "Name": "宏碁",
+        "Industry": "電腦及週邊"
+    },
+    {
+        "Ticker": 2354,
+        "Name": "鴻準",
+        "Industry": "其他電子業"
+    },
+    {
+        "Ticker": 2355,
+        "Name": "敬鵬",
+        "Industry": "電子零組件"
+    },
+    {
+        "Ticker": 2356,
+        "Name": "英業達",
+        "Industry": "電腦及週邊"
+    },
+    {
+        "Ticker": 2357,
+        "Name": "華碩",
+        "Industry": "電腦及週邊"
+    },
+    {
+        "Ticker": 2358,
+        "Name": "廷鑫",
+        "Industry": "其他"
+    },
+    {
+        "Ticker": 2359,
+        "Name": "所羅門",
+        "Industry": "其他電子業"
+    },
+    {
+        "Ticker": 2360,
+        "Name": "致茂",
+        "Industry": "其他電子業"
+    },
+    {
+        "Ticker": 2362,
+        "Name": "藍天",
+        "Industry": "電腦及週邊"
+    },
+    {
+        "Ticker": 2363,
+        "Name": "矽統",
+        "Industry": "半導體"
+    },
+    {
+        "Ticker": 2364,
+        "Name": "倫飛",
+        "Industry": "電腦及週邊"
+    },
+    {
+        "Ticker": 2365,
+        "Name": "昆盈",
+        "Industry": "電腦及週邊"
+    },
+    {
+        "Ticker": 2367,
+        "Name": "燿華",
+        "Industry": "電子零組件"
+    },
+    {
+        "Ticker": 2368,
+        "Name": "金像電",
+        "Industry": "電子零組件"
+    },
+    {
+        "Ticker": 2369,
+        "Name": "菱生",
+        "Industry": "半導體"
+    },
+    {
+        "Ticker": 2371,
+        "Name": "大同",
+        "Industry": "電機機械"
+    },
+    {
+        "Ticker": 2373,
+        "Name": "震旦行",
+        "Industry": "其他電子業"
+    },
+    {
+        "Ticker": 2374,
+        "Name": "佳能",
+        "Industry": "光電業"
+    },
+    {
+        "Ticker": 2375,
+        "Name": "凱美",
+        "Industry": "電子零組件"
+    },
+    {
+        "Ticker": 2376,
+        "Name": "技嘉",
+        "Industry": "電腦及週邊"
+    },
+    {
+        "Ticker": 2377,
+        "Name": "微星",
+        "Industry": "電腦及週邊"
+    },
+    {
+        "Ticker": 2379,
+        "Name": "瑞昱",
+        "Industry": "半導體"
+    },
+    {
+        "Ticker": 2380,
+        "Name": "虹光",
+        "Industry": "電腦及週邊"
+    },
+    {
+        "Ticker": 2382,
+        "Name": "廣達",
+        "Industry": "電腦及週邊"
+    },
+    {
+        "Ticker": 2383,
+        "Name": "台光電",
+        "Industry": "電子零組件"
+    },
+    {
+        "Ticker": 2385,
+        "Name": "群光",
+        "Industry": "電子零組件"
+    },
+    {
+        "Ticker": 2387,
+        "Name": "精元",
+        "Industry": "電腦及週邊"
+    },
+    {
+        "Ticker": 2388,
+        "Name": "威盛",
+        "Industry": "半導體"
+    },
+    {
+        "Ticker": 2390,
+        "Name": "云辰",
+        "Industry": "其他電子業"
+    },
+    {
+        "Ticker": 2392,
+        "Name": "正崴",
+        "Industry": "電子零組件"
+    },
+    {
+        "Ticker": 2393,
+        "Name": "億光",
+        "Industry": "光電業"
+    },
+    {
+        "Ticker": 2395,
+        "Name": "研華",
+        "Industry": "電腦及週邊"
+    },
+    {
+        "Ticker": 2397,
+        "Name": "友通",
+        "Industry": "電腦及週邊"
+    },
+    {
+        "Ticker": 2399,
+        "Name": "映泰",
+        "Industry": "電腦及週邊"
+    },
+    {
+        "Ticker": 2401,
+        "Name": "凌陽",
+        "Industry": "半導體"
+    },
+    {
+        "Ticker": 2402,
+        "Name": "毅嘉",
+        "Industry": "電子零組件"
+    },
+    {
+        "Ticker": 2404,
+        "Name": "漢唐",
+        "Industry": "其他電子業"
+    },
+    {
+        "Ticker": 2405,
+        "Name": "輔信",
+        "Industry": "電腦及週邊"
+    },
+    {
+        "Ticker": 2406,
+        "Name": "國碩",
+        "Industry": "光電業"
+    },
+    {
+        "Ticker": 2408,
+        "Name": "南亞科",
+        "Industry": "半導體"
+    },
+    {
+        "Ticker": 2409,
+        "Name": "友達",
+        "Industry": "光電業"
+    },
+    {
+        "Ticker": 2412,
+        "Name": "中華電",
+        "Industry": "通信網路業"
+    },
+    {
+        "Ticker": 2413,
+        "Name": "環科",
+        "Industry": "電子零組件"
+    },
+    {
+        "Ticker": 2414,
+        "Name": "精技",
+        "Industry": "電子通路業"
+    },
+    {
+        "Ticker": 2415,
+        "Name": "錩新",
+        "Industry": "電子零組件"
+    },
+    {
+        "Ticker": 2417,
+        "Name": "圓剛",
+        "Industry": "電腦及週邊"
+    },
+    {
+        "Ticker": 2419,
+        "Name": "仲琦",
+        "Industry": "通信網路業"
+    },
+    {
+        "Ticker": 2420,
+        "Name": "新巨",
+        "Industry": "電子零組件"
+    },
+    {
+        "Ticker": 2421,
+        "Name": "建準",
+        "Industry": "電子零組件"
+    },
+    {
+        "Ticker": 2423,
+        "Name": "固緯",
+        "Industry": "其他電子業"
+    },
+    {
+        "Ticker": 2424,
+        "Name": "隴華",
+        "Industry": "電腦及週邊"
+    },
+    {
+        "Ticker": 2425,
+        "Name": "承啟",
+        "Industry": "電腦及週邊"
+    },
+    {
+        "Ticker": 2426,
+        "Name": "鼎元",
+        "Industry": "光電業"
+    },
+    {
+        "Ticker": 2427,
+        "Name": "三商電",
+        "Industry": "資訊服務業"
+    },
+    {
+        "Ticker": 2428,
+        "Name": "興勤",
+        "Industry": "電子零組件"
+    },
+    {
+        "Ticker": 2429,
+        "Name": "銘旺科",
+        "Industry": "光電業"
+    },
+    {
+        "Ticker": 2430,
+        "Name": "燦坤",
+        "Industry": "電子通路業"
+    },
+    {
+        "Ticker": 2431,
+        "Name": "聯昌",
+        "Industry": "電子零組件"
+    },
+    {
+        "Ticker": 2433,
+        "Name": "互盛電",
+        "Industry": "其他電子業"
+    },
+    {
+        "Ticker": 2434,
+        "Name": "統懋",
+        "Industry": "半導體"
+    },
+    {
+        "Ticker": 2436,
+        "Name": "偉詮電",
+        "Industry": "半導體"
+    },
+    {
+        "Ticker": 2438,
+        "Name": "翔耀",
+        "Industry": "光電業"
+    },
+    {
+        "Ticker": 2439,
+        "Name": "美律",
+        "Industry": "通信網路業"
+    },
+    {
+        "Ticker": 2440,
+        "Name": "太空梭",
+        "Industry": "電子零組件"
+    },
+    {
+        "Ticker": 2441,
+        "Name": "超豐",
+        "Industry": "半導體"
+    },
+    {
+        "Ticker": 2442,
+        "Name": "新美齊",
+        "Industry": "電腦及週邊"
+    },
+    {
+        "Ticker": 2443,
+        "Name": "昶虹",
+        "Industry": "其他"
+    },
+    {
+        "Ticker": 2444,
+        "Name": "兆勁",
+        "Industry": "通信網路業"
+    },
+    {
+        "Ticker": 2449,
+        "Name": "京元電子",
+        "Industry": "半導體"
+    },
+    {
+        "Ticker": 2450,
+        "Name": "神腦",
+        "Industry": "通信網路業"
+    },
+    {
+        "Ticker": 2451,
+        "Name": "創見",
+        "Industry": "半導體"
+    },
+    {
+        "Ticker": 2453,
+        "Name": "凌群",
+        "Industry": "資訊服務業"
+    },
+    {
+        "Ticker": 2454,
+        "Name": "聯發科",
+        "Industry": "半導體"
+    },
+    {
+        "Ticker": 2455,
+        "Name": "全新",
+        "Industry": "通信網路業"
+    },
+    {
+        "Ticker": 2457,
+        "Name": "飛宏",
+        "Industry": "電子零組件"
+    },
+    {
+        "Ticker": 2458,
+        "Name": "義隆",
+        "Industry": "半導體"
+    },
+    {
+        "Ticker": 2459,
+        "Name": "敦吉",
+        "Industry": "其他電子業"
+    },
+    {
+        "Ticker": 2460,
+        "Name": "建通",
+        "Industry": "電子零組件"
+    },
+    {
+        "Ticker": 2461,
+        "Name": "光群雷",
+        "Industry": "其他電子業"
+    },
+    {
+        "Ticker": 2462,
+        "Name": "良得電",
+        "Industry": "電子零組件"
+    },
+    {
+        "Ticker": 2464,
+        "Name": "盟立",
+        "Industry": "其他電子業"
+    },
+    {
+        "Ticker": 2465,
+        "Name": "麗臺",
+        "Industry": "電腦及週邊"
+    },
+    {
+        "Ticker": 2466,
+        "Name": "冠西電",
+        "Industry": "光電業"
+    },
+    {
+        "Ticker": 2467,
+        "Name": "志聖",
+        "Industry": "電子零組件"
+    },
+    {
+        "Ticker": 2468,
+        "Name": "華經",
+        "Industry": "資訊服務業"
+    },
+    {
+        "Ticker": 2471,
+        "Name": "資通",
+        "Industry": "資訊服務業"
+    },
+    {
+        "Ticker": 2472,
+        "Name": "立隆電",
+        "Industry": "電子零組件"
+    },
+    {
+        "Ticker": 2474,
+        "Name": "可成",
+        "Industry": "其他電子業"
+    },
+    {
+        "Ticker": 2476,
+        "Name": "鉅祥",
+        "Industry": "電子零組件"
+    },
+    {
+        "Ticker": 2477,
+        "Name": "美隆電",
+        "Industry": "其他電子業"
+    },
+    {
+        "Ticker": 2478,
+        "Name": "大毅",
+        "Industry": "電子零組件"
+    },
+    {
+        "Ticker": 2480,
+        "Name": "敦陽科",
+        "Industry": "資訊服務業"
+    },
+    {
+        "Ticker": 2481,
+        "Name": "強茂",
+        "Industry": "半導體"
+    },
+    {
+        "Ticker": 2482,
+        "Name": "連宇",
+        "Industry": "其他電子業"
+    },
+    {
+        "Ticker": 2483,
+        "Name": "百容",
+        "Industry": "電子零組件"
+    },
+    {
+        "Ticker": 2484,
+        "Name": "希華",
+        "Industry": "電子零組件"
+    },
+    {
+        "Ticker": 2485,
+        "Name": "兆赫",
+        "Industry": "通信網路業"
+    },
+    {
+        "Ticker": 2486,
+        "Name": "一詮",
+        "Industry": "光電業"
+    },
+    {
+        "Ticker": 2488,
+        "Name": "漢平",
+        "Industry": "其他電子業"
+    },
+    {
+        "Ticker": 2489,
+        "Name": "瑞軒",
+        "Industry": "光電業"
+    },
+    {
+        "Ticker": 2491,
+        "Name": "吉祥全",
+        "Industry": "光電業"
+    },
+    {
+        "Ticker": 2492,
+        "Name": "華新科",
+        "Industry": "電子零組件"
+    },
+    {
+        "Ticker": 2493,
+        "Name": "揚博",
+        "Industry": "電子零組件"
+    },
+    {
+        "Ticker": 2495,
+        "Name": "普安",
+        "Industry": "電腦及週邊"
+    },
+    {
+        "Ticker": 2496,
+        "Name": "卓越",
+        "Industry": "其他"
+    },
+    {
+        "Ticker": 2497,
+        "Name": "怡利電",
+        "Industry": "汽車工業"
+    },
+    {
+        "Ticker": 2498,
+        "Name": "宏達電",
+        "Industry": "通信網路業"
+    },
+    {
+        "Ticker": 2501,
+        "Name": "國建",
+        "Industry": "建材營造"
+    },
+    {
+        "Ticker": 2504,
+        "Name": "國產",
+        "Industry": "建材營造"
+    },
+    {
+        "Ticker": 2505,
+        "Name": "國揚",
+        "Industry": "建材營造"
+    },
+    {
+        "Ticker": 2506,
+        "Name": "太設",
+        "Industry": "建材營造"
+    },
+    {
+        "Ticker": 2509,
+        "Name": "全坤建",
+        "Industry": "建材營造"
+    },
+    {
+        "Ticker": 2511,
+        "Name": "太子",
+        "Industry": "建材營造"
+    },
+    {
+        "Ticker": 2514,
+        "Name": "龍邦",
+        "Industry": "其他"
+    },
+    {
+        "Ticker": 2515,
+        "Name": "中工",
+        "Industry": "建材營造"
+    },
+    {
+        "Ticker": 2516,
+        "Name": "新建",
+        "Industry": "建材營造"
+    },
+    {
+        "Ticker": 2520,
+        "Name": "冠德",
+        "Industry": "建材營造"
+    },
+    {
+        "Ticker": 2524,
+        "Name": "京城",
+        "Industry": "建材營造"
+    },
+    {
+        "Ticker": 2527,
+        "Name": "宏璟",
+        "Industry": "建材營造"
+    },
+    {
+        "Ticker": 2528,
+        "Name": "皇普",
+        "Industry": "建材營造"
+    },
+    {
+        "Ticker": 2530,
+        "Name": "華建",
+        "Industry": "建材營造"
+    },
+    {
+        "Ticker": 2534,
+        "Name": "宏盛",
+        "Industry": "建材營造"
+    },
+    {
+        "Ticker": 2535,
+        "Name": "達欣工",
+        "Industry": "建材營造"
+    },
+    {
+        "Ticker": 2536,
+        "Name": "宏普",
+        "Industry": "建材營造"
+    },
+    {
+        "Ticker": 2537,
+        "Name": "聯上發",
+        "Industry": "建材營造"
+    },
+    {
+        "Ticker": 2538,
+        "Name": "基泰",
+        "Industry": "建材營造"
+    },
+    {
+        "Ticker": 2539,
+        "Name": "櫻花建",
+        "Industry": "建材營造"
+    },
+    {
+        "Ticker": 2540,
+        "Name": "愛山林",
+        "Industry": "建材營造"
+    },
+    {
+        "Ticker": 2542,
+        "Name": "興富發",
+        "Industry": "建材營造"
+    },
+    {
+        "Ticker": 2543,
+        "Name": "皇昌",
+        "Industry": "建材營造"
+    },
+    {
+        "Ticker": 2545,
+        "Name": "皇翔",
+        "Industry": "建材營造"
+    },
+    {
+        "Ticker": 2546,
+        "Name": "根基",
+        "Industry": "建材營造"
+    },
+    {
+        "Ticker": 2547,
+        "Name": "日勝生",
+        "Industry": "建材營造"
+    },
+    {
+        "Ticker": 2548,
+        "Name": "華固",
+        "Industry": "建材營造"
+    },
+    {
+        "Ticker": 2597,
+        "Name": "潤弘",
+        "Industry": "建材營造"
+    },
+    {
+        "Ticker": 2601,
+        "Name": "益航",
+        "Industry": "貿易百貨"
+    },
+    {
+        "Ticker": 2603,
+        "Name": "長榮",
+        "Industry": "航運業"
+    },
+    {
+        "Ticker": 2605,
+        "Name": "新興",
+        "Industry": "航運業"
+    },
+    {
+        "Ticker": 2606,
+        "Name": "裕民",
+        "Industry": "航運業"
+    },
+    {
+        "Ticker": 2607,
+        "Name": "榮運",
+        "Industry": "航運業"
+    },
+    {
+        "Ticker": 2608,
+        "Name": "嘉里大榮",
+        "Industry": "航運業"
+    },
+    {
+        "Ticker": 2609,
+        "Name": "陽明",
+        "Industry": "航運業"
+    },
+    {
+        "Ticker": 2610,
+        "Name": "華航",
+        "Industry": "航運業"
+    },
+    {
+        "Ticker": 2611,
+        "Name": "志信",
+        "Industry": "航運業"
+    },
+    {
+        "Ticker": 2612,
+        "Name": "中航",
+        "Industry": "航運業"
+    },
+    {
+        "Ticker": 2613,
+        "Name": "中櫃",
+        "Industry": "航運業"
+    },
+    {
+        "Ticker": 2614,
+        "Name": "東森",
+        "Industry": "其他"
+    },
+    {
+        "Ticker": 2615,
+        "Name": "萬海",
+        "Industry": "航運業"
+    },
+    {
+        "Ticker": 2616,
+        "Name": "山隆",
+        "Industry": "油電燃氣業"
+    },
+    {
+        "Ticker": 2617,
+        "Name": "台航",
+        "Industry": "航運業"
+    },
+    {
+        "Ticker": 2618,
+        "Name": "長榮航",
+        "Industry": "航運業"
+    },
+    {
+        "Ticker": 2630,
+        "Name": "亞航",
+        "Industry": "航運業"
+    },
+    {
+        "Ticker": 2633,
+        "Name": "台灣高鐵",
+        "Industry": "航運業"
+    },
+    {
+        "Ticker": 2634,
+        "Name": "漢翔",
+        "Industry": "航運業"
+    },
+    {
+        "Ticker": 2636,
+        "Name": "台驊投控",
+        "Industry": "航運業"
+    },
+    {
+        "Ticker": 2637,
+        "Name": "慧洋-KY",
+        "Industry": "航運業"
+    },
+    {
+        "Ticker": 2642,
+        "Name": "宅配通",
+        "Industry": "航運業"
+    },
+    {
+        "Ticker": 2701,
+        "Name": "萬企",
+        "Industry": "觀光餐旅"
+    },
+    {
+        "Ticker": 2702,
+        "Name": "華園",
+        "Industry": "觀光餐旅"
+    },
+    {
+        "Ticker": 2704,
+        "Name": "國賓",
+        "Industry": "觀光餐旅"
+    },
+    {
+        "Ticker": 2705,
+        "Name": "六福",
+        "Industry": "觀光餐旅"
+    },
+    {
+        "Ticker": 2706,
+        "Name": "第一店",
+        "Industry": "觀光餐旅"
+    },
+    {
+        "Ticker": 2707,
+        "Name": "晶華",
+        "Industry": "觀光餐旅"
+    },
+    {
+        "Ticker": 2712,
+        "Name": "遠雄來",
+        "Industry": "觀光餐旅"
+    },
+    {
+        "Ticker": 2722,
+        "Name": "夏都",
+        "Industry": "觀光餐旅"
+    },
+    {
+        "Ticker": 2723,
+        "Name": "美食-KY",
+        "Industry": "觀光餐旅"
+    },
+    {
+        "Ticker": 2727,
+        "Name": "王品",
+        "Industry": "觀光餐旅"
+    },
+    {
+        "Ticker": 2731,
+        "Name": "雄獅",
+        "Industry": "觀光餐旅"
+    },
+    {
+        "Ticker": 2739,
+        "Name": "寒舍",
+        "Industry": "觀光餐旅"
+    },
+    {
+        "Ticker": 2748,
+        "Name": "雲品",
+        "Industry": "觀光餐旅"
+    },
+    {
+        "Ticker": 2753,
+        "Name": "八方雲集",
+        "Industry": "觀光餐旅"
+    },
+    {
+        "Ticker": 2801,
+        "Name": "彰銀",
+        "Industry": "金融業"
+    },
+    {
+        "Ticker": 2809,
+        "Name": "京城銀",
+        "Industry": "金融業"
+    },
+    {
+        "Ticker": 2812,
+        "Name": "台中銀",
+        "Industry": "金融業"
+    },
+    {
+        "Ticker": 2816,
+        "Name": "旺旺保",
+        "Industry": "金融業"
+    },
+    {
+        "Ticker": 2820,
+        "Name": "華票",
+        "Industry": "金融業"
+    },
+    {
+        "Ticker": 2832,
+        "Name": "台產",
+        "Industry": "金融業"
+    },
+    {
+        "Ticker": 2834,
+        "Name": "臺企銀",
+        "Industry": "金融業"
+    },
+    {
+        "Ticker": 2836,
+        "Name": "高雄銀",
+        "Industry": "金融業"
+    },
+    {
+        "Ticker": 2838,
+        "Name": "聯邦銀",
+        "Industry": "金融業"
+    },
+    {
+        "Ticker": 2845,
+        "Name": "遠東銀",
+        "Industry": "金融業"
+    },
+    {
+        "Ticker": 2849,
+        "Name": "安泰銀",
+        "Industry": "金融業"
+    },
+    {
+        "Ticker": 2850,
+        "Name": "新產",
+        "Industry": "金融業"
+    },
+    {
+        "Ticker": 2851,
+        "Name": "中再保",
+        "Industry": "金融業"
+    },
+    {
+        "Ticker": 2852,
+        "Name": "第一保",
+        "Industry": "金融業"
+    },
+    {
+        "Ticker": 2855,
+        "Name": "統一證",
+        "Industry": "金融業"
+    },
+    {
+        "Ticker": 2867,
+        "Name": "三商壽",
+        "Industry": "金融業"
+    },
+    {
+        "Ticker": 2880,
+        "Name": "華南金",
+        "Industry": "金融業"
+    },
+    {
+        "Ticker": 2881,
+        "Name": "富邦金",
+        "Industry": "金融業"
+    },
+    {
+        "Ticker": 2882,
+        "Name": "國泰金",
+        "Industry": "金融業"
+    },
+    {
+        "Ticker": 2883,
+        "Name": "開發金",
+        "Industry": "金融業"
+    },
+    {
+        "Ticker": 2884,
+        "Name": "玉山金",
+        "Industry": "金融業"
+    },
+    {
+        "Ticker": 2885,
+        "Name": "元大金",
+        "Industry": "金融業"
+    },
+    {
+        "Ticker": 2886,
+        "Name": "兆豐金",
+        "Industry": "金融業"
+    },
+    {
+        "Ticker": 2887,
+        "Name": "台新金",
+        "Industry": "金融業"
+    },
+    {
+        "Ticker": 2888,
+        "Name": "新光金",
+        "Industry": "金融業"
+    },
+    {
+        "Ticker": 2889,
+        "Name": "國票金",
+        "Industry": "金融業"
+    },
+    {
+        "Ticker": 2890,
+        "Name": "永豐金",
+        "Industry": "金融業"
+    },
+    {
+        "Ticker": 2891,
+        "Name": "中信金",
+        "Industry": "金融業"
+    },
+    {
+        "Ticker": 2892,
+        "Name": "第一金",
+        "Industry": "金融業"
+    },
+    {
+        "Ticker": 2897,
+        "Name": "王道銀行",
+        "Industry": "金融業"
+    },
+    {
+        "Ticker": 2901,
+        "Name": "欣欣",
+        "Industry": "貿易百貨"
+    },
+    {
+        "Ticker": 2903,
+        "Name": "遠百",
+        "Industry": "貿易百貨"
+    },
+    {
+        "Ticker": 2904,
+        "Name": "匯僑",
+        "Industry": "其他"
+    },
+    {
+        "Ticker": 2905,
+        "Name": "三商",
+        "Industry": "貿易百貨"
+    },
+    {
+        "Ticker": 2906,
+        "Name": "高林",
+        "Industry": "貿易百貨"
+    },
+    {
+        "Ticker": 2908,
+        "Name": "特力",
+        "Industry": "貿易百貨"
+    },
+    {
+        "Ticker": 2910,
+        "Name": "統領",
+        "Industry": "貿易百貨"
+    },
+    {
+        "Ticker": 2911,
+        "Name": "麗嬰房",
+        "Industry": "貿易百貨"
+    },
+    {
+        "Ticker": 2912,
+        "Name": "統一超",
+        "Industry": "貿易百貨"
+    },
+    {
+        "Ticker": 2913,
+        "Name": "農林",
+        "Industry": "貿易百貨"
+    },
+    {
+        "Ticker": 2915,
+        "Name": "潤泰全",
+        "Industry": "貿易百貨"
+    },
+    {
+        "Ticker": 2923,
+        "Name": "鼎固-KY",
+        "Industry": "建材營造"
+    },
+    {
+        "Ticker": 2929,
+        "Name": "淘帝-KY",
+        "Industry": "貿易百貨"
+    },
+    {
+        "Ticker": 2939,
+        "Name": "凱羿-KY",
+        "Industry": "貿易百貨"
+    },
+    {
+        "Ticker": 2945,
+        "Name": "三商家購",
+        "Industry": "貿易百貨"
+    },
+    {
+        "Ticker": 3002,
+        "Name": "歐格",
+        "Industry": "電腦及週邊"
+    },
+    {
+        "Ticker": 3003,
+        "Name": "健和興",
+        "Industry": "電子零組件"
+    },
+    {
+        "Ticker": 3004,
+        "Name": "豐達科",
+        "Industry": "鋼鐵工業"
+    },
+    {
+        "Ticker": 3005,
+        "Name": "神基",
+        "Industry": "電腦及週邊"
+    },
+    {
+        "Ticker": 3006,
+        "Name": "晶豪科",
+        "Industry": "半導體"
+    },
+    {
+        "Ticker": 3008,
+        "Name": "大立光",
+        "Industry": "光電業"
+    },
+    {
+        "Ticker": 3010,
+        "Name": "華立",
+        "Industry": "電子通路業"
+    },
+    {
+        "Ticker": 3011,
+        "Name": "今皓",
+        "Industry": "電子零組件"
+    },
+    {
+        "Ticker": 3013,
+        "Name": "晟銘電",
+        "Industry": "電腦及週邊"
+    },
+    {
+        "Ticker": 3014,
+        "Name": "聯陽",
+        "Industry": "半導體"
+    },
+    {
+        "Ticker": 3015,
+        "Name": "全漢",
+        "Industry": "電子零組件"
+    },
+    {
+        "Ticker": 3016,
+        "Name": "嘉晶",
+        "Industry": "半導體"
+    },
+    {
+        "Ticker": 3017,
+        "Name": "奇鋐",
+        "Industry": "電腦及週邊"
+    },
+    {
+        "Ticker": 3018,
+        "Name": "隆銘綠能",
+        "Industry": "其他電子業"
+    },
+    {
+        "Ticker": 3019,
+        "Name": "亞光",
+        "Industry": "光電業"
+    },
+    {
+        "Ticker": 3021,
+        "Name": "鴻名",
+        "Industry": "電子零組件"
+    },
+    {
+        "Ticker": 3022,
+        "Name": "威強電",
+        "Industry": "電腦及週邊"
+    },
+    {
+        "Ticker": 3023,
+        "Name": "信邦",
+        "Industry": "電子零組件"
+    },
+    {
+        "Ticker": 3024,
+        "Name": "憶聲",
+        "Industry": "光電業"
+    },
+    {
+        "Ticker": 3025,
+        "Name": "星通",
+        "Industry": "通信網路業"
+    },
+    {
+        "Ticker": 3026,
+        "Name": "禾伸堂",
+        "Industry": "電子零組件"
+    },
+    {
+        "Ticker": 3027,
+        "Name": "盛達",
+        "Industry": "通信網路業"
+    },
+    {
+        "Ticker": 3028,
+        "Name": "增你強",
+        "Industry": "電子通路業"
+    },
+    {
+        "Ticker": 3029,
+        "Name": "零壹",
+        "Industry": "資訊服務業"
+    },
+    {
+        "Ticker": 3030,
+        "Name": "德律",
+        "Industry": "其他電子業"
+    },
+    {
+        "Ticker": 3031,
+        "Name": "佰鴻",
+        "Industry": "光電業"
+    },
+    {
+        "Ticker": 3032,
+        "Name": "偉訓",
+        "Industry": "電子零組件"
+    },
+    {
+        "Ticker": 3033,
+        "Name": "威健",
+        "Industry": "電子通路業"
+    },
+    {
+        "Ticker": 3034,
+        "Name": "聯詠",
+        "Industry": "半導體"
+    },
+    {
+        "Ticker": 3035,
+        "Name": "智原",
+        "Industry": "半導體"
+    },
+    {
+        "Ticker": 3036,
+        "Name": "文曄",
+        "Industry": "電子通路業"
+    },
+    {
+        "Ticker": 3037,
+        "Name": "欣興",
+        "Industry": "電子零組件"
+    },
+    {
+        "Ticker": 3038,
+        "Name": "全台",
+        "Industry": "光電業"
+    },
+    {
+        "Ticker": 3040,
+        "Name": "遠見",
+        "Industry": "其他"
+    },
+    {
+        "Ticker": 3041,
+        "Name": "揚智",
+        "Industry": "半導體"
+    },
+    {
+        "Ticker": 3042,
+        "Name": "晶技",
+        "Industry": "電子零組件"
+    },
+    {
+        "Ticker": 3043,
+        "Name": "科風",
+        "Industry": "其他電子業"
+    },
+    {
+        "Ticker": 3044,
+        "Name": "健鼎",
+        "Industry": "電子零組件"
+    },
+    {
+        "Ticker": 3045,
+        "Name": "台灣大",
+        "Industry": "通信網路業"
+    },
+    {
+        "Ticker": 3046,
+        "Name": "建碁",
+        "Industry": "電腦及週邊"
+    },
+    {
+        "Ticker": 3047,
+        "Name": "訊舟",
+        "Industry": "通信網路業"
+    },
+    {
+        "Ticker": 3048,
+        "Name": "益登",
+        "Industry": "電子通路業"
+    },
+    {
+        "Ticker": 3049,
+        "Name": "精金",
+        "Industry": "光電業"
+    },
+    {
+        "Ticker": 3050,
+        "Name": "鈺德",
+        "Industry": "光電業"
+    },
+    {
+        "Ticker": 3051,
+        "Name": "力特",
+        "Industry": "光電業"
+    },
+    {
+        "Ticker": 3052,
+        "Name": "夆典",
+        "Industry": "建材營造"
+    },
+    {
+        "Ticker": 3054,
+        "Name": "立萬利",
+        "Industry": "半導體"
+    },
+    {
+        "Ticker": 3055,
+        "Name": "蔚華科",
+        "Industry": "電子通路業"
+    },
+    {
+        "Ticker": 3056,
+        "Name": "富華新",
+        "Industry": "建材營造"
+    },
+    {
+        "Ticker": 3057,
+        "Name": "喬鼎",
+        "Industry": "電腦及週邊"
+    },
+    {
+        "Ticker": 3058,
+        "Name": "立德",
+        "Industry": "電子零組件"
+    },
+    {
+        "Ticker": 3059,
+        "Name": "華晶科",
+        "Industry": "光電業"
+    },
+    {
+        "Ticker": 3060,
+        "Name": "銘異",
+        "Industry": "電腦及週邊"
+    },
+    {
+        "Ticker": 3062,
+        "Name": "建漢",
+        "Industry": "通信網路業"
+    },
+    {
+        "Ticker": 3090,
+        "Name": "日電貿",
+        "Industry": "電子零組件"
+    },
+    {
+        "Ticker": 3092,
+        "Name": "鴻碩",
+        "Industry": "電子零組件"
+    },
+    {
+        "Ticker": 3094,
+        "Name": "聯傑",
+        "Industry": "半導體"
+    },
+    {
+        "Ticker": 3130,
+        "Name": "一零四",
+        "Industry": "資訊服務業"
+    },
+    {
+        "Ticker": 3138,
+        "Name": "耀登",
+        "Industry": "通信網路業"
+    },
+    {
+        "Ticker": 3149,
+        "Name": "正達",
+        "Industry": "光電業"
+    },
+    {
+        "Ticker": 3164,
+        "Name": "景岳",
+        "Industry": "生技醫療"
+    },
+    {
+        "Ticker": 3167,
+        "Name": "大量",
+        "Industry": "電機機械"
+    },
+    {
+        "Ticker": 3189,
+        "Name": "景碩",
+        "Industry": "半導體"
+    },
+    {
+        "Ticker": 3209,
+        "Name": "全科",
+        "Industry": "電子通路業"
+    },
+    {
+        "Ticker": 3229,
+        "Name": "晟鈦",
+        "Industry": "電子零組件"
+    },
+    {
+        "Ticker": 3231,
+        "Name": "緯創",
+        "Industry": "電腦及週邊"
+    },
+    {
+        "Ticker": 3257,
+        "Name": "虹冠電",
+        "Industry": "半導體"
+    },
+    {
+        "Ticker": 3266,
+        "Name": "昇陽",
+        "Industry": "建材營造"
+    },
+    {
+        "Ticker": 3296,
+        "Name": "勝德",
+        "Industry": "電子零組件"
+    },
+    {
+        "Ticker": 3305,
+        "Name": "昇貿",
+        "Industry": "其他電子業"
+    },
+    {
+        "Ticker": 3308,
+        "Name": "聯德",
+        "Industry": "電子零組件"
+    },
+    {
+        "Ticker": 3311,
+        "Name": "閎暉",
+        "Industry": "通信網路業"
+    },
+    {
+        "Ticker": 3312,
+        "Name": "弘憶股",
+        "Industry": "電子通路業"
+    },
+    {
+        "Ticker": 3321,
+        "Name": "同泰",
+        "Industry": "電子零組件"
+    },
+    {
+        "Ticker": 3338,
+        "Name": "泰碩",
+        "Industry": "電子零組件"
+    },
+    {
+        "Ticker": 3346,
+        "Name": "麗清",
+        "Industry": "汽車工業"
+    },
+    {
+        "Ticker": 3356,
+        "Name": "奇偶",
+        "Industry": "光電業"
+    },
+    {
+        "Ticker": 3376,
+        "Name": "新日興",
+        "Industry": "電子零組件"
+    },
+    {
+        "Ticker": 3380,
+        "Name": "明泰",
+        "Industry": "通信網路業"
+    },
+    {
+        "Ticker": 3406,
+        "Name": "玉晶光",
+        "Industry": "光電業"
+    },
+    {
+        "Ticker": 3413,
+        "Name": "京鼎",
+        "Industry": "半導體"
+    },
+    {
+        "Ticker": 3416,
+        "Name": "融程電",
+        "Industry": "電腦及週邊"
+    },
+    {
+        "Ticker": 3419,
+        "Name": "譁裕",
+        "Industry": "通信網路業"
+    },
+    {
+        "Ticker": 3432,
+        "Name": "台端",
+        "Industry": "電子零組件"
+    },
+    {
+        "Ticker": 3437,
+        "Name": "榮創",
+        "Industry": "光電業"
+    },
+    {
+        "Ticker": 3443,
+        "Name": "創意",
+        "Industry": "半導體"
+    },
+    {
+        "Ticker": 3447,
+        "Name": "展達",
+        "Industry": "通信網路業"
+    },
+    {
+        "Ticker": 3450,
+        "Name": "聯鈞",
+        "Industry": "半導體"
+    },
+    {
+        "Ticker": 3454,
+        "Name": "晶睿",
+        "Industry": "光電業"
+    },
+    {
+        "Ticker": 3481,
+        "Name": "群創",
+        "Industry": "光電業"
+    },
+    {
+        "Ticker": 3494,
+        "Name": "誠研",
+        "Industry": "電腦及週邊"
+    },
+    {
+        "Ticker": 3501,
+        "Name": "維熹",
+        "Industry": "電子零組件"
+    },
+    {
+        "Ticker": 3504,
+        "Name": "揚明光",
+        "Industry": "光電業"
+    },
+    {
+        "Ticker": 3515,
+        "Name": "華擎",
+        "Industry": "電腦及週邊"
+    },
+    {
+        "Ticker": 3518,
+        "Name": "柏騰",
+        "Industry": "其他電子業"
+    },
+    {
+        "Ticker": 3528,
+        "Name": "安馳",
+        "Industry": "電子通路業"
+    },
+    {
+        "Ticker": 3530,
+        "Name": "晶相光",
+        "Industry": "半導體"
+    },
+    {
+        "Ticker": 3532,
+        "Name": "台勝科",
+        "Industry": "半導體"
+    },
+    {
+        "Ticker": 3533,
+        "Name": "嘉澤",
+        "Industry": "電子零組件"
+    },
+    {
+        "Ticker": 3535,
+        "Name": "晶彩科",
+        "Industry": "光電業"
+    },
+    {
+        "Ticker": 3543,
+        "Name": "州巧",
+        "Industry": "光電業"
+    },
+    {
+        "Ticker": 3545,
+        "Name": "敦泰",
+        "Industry": "半導體"
+    },
+    {
+        "Ticker": 3550,
+        "Name": "聯穎",
+        "Industry": "電子零組件"
+    },
+    {
+        "Ticker": 3557,
+        "Name": "嘉威",
+        "Industry": "其他"
+    },
+    {
+        "Ticker": 3563,
+        "Name": "牧德",
+        "Industry": "光電業"
+    },
+    {
+        "Ticker": 3576,
+        "Name": "聯合再生",
+        "Industry": "光電業"
+    },
+    {
+        "Ticker": 3583,
+        "Name": "辛耘",
+        "Industry": "半導體"
+    },
+    {
+        "Ticker": 3588,
+        "Name": "通嘉",
+        "Industry": "半導體"
+    },
+    {
+        "Ticker": 3591,
+        "Name": "艾笛森",
+        "Industry": "光電業"
+    },
+    {
+        "Ticker": 3592,
+        "Name": "瑞鼎",
+        "Industry": "半導體"
+    },
+    {
+        "Ticker": 3593,
+        "Name": "力銘",
+        "Industry": "電子零組件"
+    },
+    {
+        "Ticker": 3596,
+        "Name": "智易",
+        "Industry": "通信網路業"
+    },
+    {
+        "Ticker": 3605,
+        "Name": "宏致",
+        "Industry": "電子零組件"
+    },
+    {
+        "Ticker": 3607,
+        "Name": "谷崧",
+        "Industry": "電子零組件"
+    },
+    {
+        "Ticker": 3617,
+        "Name": "碩天",
+        "Industry": "其他電子業"
+    },
+    {
+        "Ticker": 3622,
+        "Name": "洋華",
+        "Industry": "光電業"
+    },
+    {
+        "Ticker": 3645,
+        "Name": "達邁",
+        "Industry": "電子零組件"
+    },
+    {
+        "Ticker": 3652,
+        "Name": "精聯",
+        "Industry": "電腦及週邊"
+    },
+    {
+        "Ticker": 3653,
+        "Name": "健策",
+        "Industry": "電子零組件"
+    },
+    {
+        "Ticker": 3661,
+        "Name": "世芯-KY",
+        "Industry": "半導體"
+    },
+    {
+        "Ticker": 3665,
+        "Name": "貿聯-KY",
+        "Industry": "其他電子業"
+    },
+    {
+        "Ticker": 3669,
+        "Name": "圓展",
+        "Industry": "通信網路業"
+    },
+    {
+        "Ticker": 3673,
+        "Name": "TPK-KY",
+        "Industry": "光電業"
+    },
+    {
+        "Ticker": 3679,
+        "Name": "新至陞",
+        "Industry": "電子零組件"
+    },
+    {
+        "Ticker": 3682,
+        "Name": "亞太電",
+        "Industry": "通信網路業"
+    },
+    {
+        "Ticker": 3686,
+        "Name": "達能",
+        "Industry": "半導體"
+    },
+    {
+        "Ticker": 3694,
+        "Name": "海華",
+        "Industry": "通信網路業"
+    },
+    {
+        "Ticker": 3701,
+        "Name": "大眾控",
+        "Industry": "電腦及週邊"
+    },
+    {
+        "Ticker": 3702,
+        "Name": "大聯大",
+        "Industry": "電子通路業"
+    },
+    {
+        "Ticker": 3703,
+        "Name": "欣陸",
+        "Industry": "建材營造"
+    },
+    {
+        "Ticker": 3704,
+        "Name": "合勤控",
+        "Industry": "通信網路業"
+    },
+    {
+        "Ticker": 3705,
+        "Name": "永信",
+        "Industry": "生技醫療"
+    },
+    {
+        "Ticker": 3706,
+        "Name": "神達",
+        "Industry": "電腦及週邊"
+    },
+    {
+        "Ticker": 3708,
+        "Name": "上緯投控",
+        "Industry": "化學工業"
+    },
+    {
+        "Ticker": 3711,
+        "Name": "日月光投控",
+        "Industry": "半導體"
+    },
+    {
+        "Ticker": 3712,
+        "Name": "永崴投控",
+        "Industry": "電腦及週邊"
+    },
+    {
+        "Ticker": 3714,
+        "Name": "富采",
+        "Industry": "光電業"
+    },
+    {
+        "Ticker": 3715,
+        "Name": "定穎投控",
+        "Industry": "電子零組件"
+    },
+    {
+        "Ticker": 4104,
+        "Name": "佳醫",
+        "Industry": "生技醫療"
+    },
+    {
+        "Ticker": 4106,
+        "Name": "雃博",
+        "Industry": "生技醫療"
+    },
+    {
+        "Ticker": 4108,
+        "Name": "懷特",
+        "Industry": "生技醫療"
+    },
+    {
+        "Ticker": 4119,
+        "Name": "旭富",
+        "Industry": "生技醫療"
+    },
+    {
+        "Ticker": 4133,
+        "Name": "亞諾法",
+        "Industry": "生技醫療"
+    },
+    {
+        "Ticker": 4137,
+        "Name": "麗豐-KY",
+        "Industry": "生技醫療"
+    },
+    {
+        "Ticker": 4142,
+        "Name": "國光生",
+        "Industry": "生技醫療"
+    },
+    {
+        "Ticker": 4148,
+        "Name": "全宇生技-KY",
+        "Industry": "生技醫療"
+    },
+    {
+        "Ticker": 4155,
+        "Name": "訊映",
+        "Industry": "生技醫療"
+    },
+    {
+        "Ticker": 4164,
+        "Name": "承業醫",
+        "Industry": "生技醫療"
+    },
+    {
+        "Ticker": 4190,
+        "Name": "佐登-KY",
+        "Industry": "生技醫療"
+    },
+    {
+        "Ticker": 4306,
+        "Name": "炎洲",
+        "Industry": "塑膠工業"
+    },
+    {
+        "Ticker": 4414,
+        "Name": "如興",
+        "Industry": "紡織纖維"
+    },
+    {
+        "Ticker": 4426,
+        "Name": "利勤",
+        "Industry": "紡織纖維"
+    },
+    {
+        "Ticker": 4438,
+        "Name": "廣越",
+        "Industry": "紡織纖維"
+    },
+    {
+        "Ticker": 4439,
+        "Name": "冠星-KY",
+        "Industry": "紡織纖維"
+    },
+    {
+        "Ticker": 4440,
+        "Name": "宜新實業",
+        "Industry": "紡織纖維"
+    },
+    {
+        "Ticker": 4526,
+        "Name": "東台",
+        "Industry": "電機機械"
+    },
+    {
+        "Ticker": 4532,
+        "Name": "瑞智",
+        "Industry": "電機機械"
+    },
+    {
+        "Ticker": 4536,
+        "Name": "拓凱",
+        "Industry": "其他"
+    },
+    {
+        "Ticker": 4540,
+        "Name": "全球傳動",
+        "Industry": "電機機械"
+    },
+    {
+        "Ticker": 4545,
+        "Name": "銘鈺",
+        "Industry": "電子零組件"
+    },
+    {
+        "Ticker": 4551,
+        "Name": "智伸科",
+        "Industry": "汽車工業"
+    },
+    {
+        "Ticker": 4552,
+        "Name": "力達-KY",
+        "Industry": "電機機械"
+    },
+    {
+        "Ticker": 4555,
+        "Name": "氣立",
+        "Industry": "電機機械"
+    },
+    {
+        "Ticker": 4557,
+        "Name": "永新-KY",
+        "Industry": "汽車工業"
+    },
+    {
+        "Ticker": 4560,
+        "Name": "強信-KY",
+        "Industry": "電機機械"
+    },
+    {
+        "Ticker": 4562,
+        "Name": "穎漢",
+        "Industry": "電機機械"
+    },
+    {
+        "Ticker": 4564,
+        "Name": "元翎",
+        "Industry": "電機機械"
+    },
+    {
+        "Ticker": 4566,
+        "Name": "時碩工業",
+        "Industry": "電機機械"
+    },
+    {
+        "Ticker": 4571,
+        "Name": "鈞興-KY",
+        "Industry": "電機機械"
+    },
+    {
+        "Ticker": 4572,
+        "Name": "駐龍",
+        "Industry": "電機機械"
+    },
+    {
+        "Ticker": 4576,
+        "Name": "大銀微系統",
+        "Industry": "電機機械"
+    },
+    {
+        "Ticker": 4581,
+        "Name": "光隆精密-KY",
+        "Industry": "汽車工業"
+    },
+    {
+        "Ticker": 4583,
+        "Name": "台灣精銳",
+        "Industry": "電機機械"
+    },
+    {
+        "Ticker": 4720,
+        "Name": "德淵",
+        "Industry": "化學工業"
+    },
+    {
+        "Ticker": 4722,
+        "Name": "國精化",
+        "Industry": "化學工業"
+    },
+    {
+        "Ticker": 4737,
+        "Name": "華廣",
+        "Industry": "生技醫療"
+    },
+    {
+        "Ticker": 4739,
+        "Name": "康普",
+        "Industry": "化學工業"
+    },
+    {
+        "Ticker": 4746,
+        "Name": "台耀",
+        "Industry": "生技醫療"
+    },
+    {
+        "Ticker": 4755,
+        "Name": "三福化",
+        "Industry": "化學工業"
+    },
+    {
+        "Ticker": 4763,
+        "Name": "材料-KY",
+        "Industry": "化學工業"
+    },
+    {
+        "Ticker": 4764,
+        "Name": "雙鍵",
+        "Industry": "化學工業"
+    },
+    {
+        "Ticker": 4766,
+        "Name": "南寶",
+        "Industry": "化學工業"
+    },
+    {
+        "Ticker": 4770,
+        "Name": "上品",
+        "Industry": "化學工業"
+    },
+    {
+        "Ticker": 4807,
+        "Name": "日成-KY",
+        "Industry": "貿易百貨"
+    },
+    {
+        "Ticker": 4904,
+        "Name": "遠傳",
+        "Industry": "通信網路業"
+    },
+    {
+        "Ticker": 4906,
+        "Name": "正文",
+        "Industry": "通信網路業"
+    },
+    {
+        "Ticker": 4912,
+        "Name": "聯德控股-KY",
+        "Industry": "電子零組件"
+    },
+    {
+        "Ticker": 4915,
+        "Name": "致伸",
+        "Industry": "電子零組件"
+    },
+    {
+        "Ticker": 4916,
+        "Name": "事欣科",
+        "Industry": "電腦及週邊"
+    },
+    {
+        "Ticker": 4919,
+        "Name": "新唐",
+        "Industry": "半導體"
+    },
+    {
+        "Ticker": 4927,
+        "Name": "泰鼎-KY",
+        "Industry": "電子零組件"
+    },
+    {
+        "Ticker": 4930,
+        "Name": "燦星網",
+        "Industry": "電器電纜"
+    },
+    {
+        "Ticker": 4934,
+        "Name": "太極",
+        "Industry": "光電業"
+    },
+    {
+        "Ticker": 4935,
+        "Name": "茂林-KY",
+        "Industry": "光電業"
+    },
+    {
+        "Ticker": 4938,
+        "Name": "和碩",
+        "Industry": "電腦及週邊"
+    },
+    {
+        "Ticker": 4942,
+        "Name": "嘉彰",
+        "Industry": "光電業"
+    },
+    {
+        "Ticker": 4943,
+        "Name": "康控-KY",
+        "Industry": "電子零組件"
+    },
+    {
+        "Ticker": 4952,
+        "Name": "凌通",
+        "Industry": "半導體"
+    },
+    {
+        "Ticker": 4956,
+        "Name": "光鋐",
+        "Industry": "光電業"
+    },
+    {
+        "Ticker": 4958,
+        "Name": "臻鼎-KY",
+        "Industry": "電子零組件"
+    },
+    {
+        "Ticker": 4960,
+        "Name": "誠美材",
+        "Industry": "光電業"
+    },
+    {
+        "Ticker": 4961,
+        "Name": "天鈺",
+        "Industry": "半導體"
+    },
+    {
+        "Ticker": 4967,
+        "Name": "十銓",
+        "Industry": "半導體"
+    },
+    {
+        "Ticker": 4968,
+        "Name": "立積",
+        "Industry": "半導體"
+    },
+    {
+        "Ticker": 4976,
+        "Name": "佳凌",
+        "Industry": "光電業"
+    },
+    {
+        "Ticker": 4977,
+        "Name": "眾達-KY",
+        "Industry": "通信網路業"
+    },
+    {
+        "Ticker": 4989,
+        "Name": "榮科",
+        "Industry": "電子零組件"
+    },
+    {
+        "Ticker": 4994,
+        "Name": "傳奇",
+        "Industry": "資訊服務業"
+    },
+    {
+        "Ticker": 4999,
+        "Name": "鑫禾",
+        "Industry": "電子零組件"
+    },
+    {
+        "Ticker": 5007,
+        "Name": "三星",
+        "Industry": "鋼鐵工業"
+    },
+    {
+        "Ticker": 5203,
+        "Name": "訊連",
+        "Industry": "資訊服務業"
+    },
+    {
+        "Ticker": 5215,
+        "Name": "科嘉-KY",
+        "Industry": "電腦及週邊"
+    },
+    {
+        "Ticker": 5222,
+        "Name": "全訊",
+        "Industry": "半導體"
+    },
+    {
+        "Ticker": 5225,
+        "Name": "東科-KY",
+        "Industry": "其他電子業"
+    },
+    {
+        "Ticker": 5234,
+        "Name": "達興材料",
+        "Industry": "光電業"
+    },
+    {
+        "Ticker": 5243,
+        "Name": "乙盛-KY",
+        "Industry": "光電業"
+    },
+    {
+        "Ticker": 5244,
+        "Name": "弘凱",
+        "Industry": "光電業"
+    },
+    {
+        "Ticker": 5258,
+        "Name": "虹堡",
+        "Industry": "電腦及週邊"
+    },
+    {
+        "Ticker": 5269,
+        "Name": "祥碩",
+        "Industry": "半導體"
+    },
+    {
+        "Ticker": 5283,
+        "Name": "禾聯碩",
+        "Industry": "電器電纜"
+    },
+    {
+        "Ticker": 5284,
+        "Name": "jpp-KY",
+        "Industry": "其他"
+    },
+    {
+        "Ticker": 5285,
+        "Name": "界霖",
+        "Industry": "半導體"
+    },
+    {
+        "Ticker": 5288,
+        "Name": "豐祥-KY",
+        "Industry": "電機機械"
+    },
+    {
+        "Ticker": 5306,
+        "Name": "桂盟",
+        "Industry": "其他"
+    },
+    {
+        "Ticker": 5388,
+        "Name": "中磊",
+        "Industry": "通信網路業"
+    },
+    {
+        "Ticker": 5434,
+        "Name": "崇越",
+        "Industry": "電子通路業"
+    },
+    {
+        "Ticker": 5469,
+        "Name": "瀚宇博",
+        "Industry": "電子零組件"
+    },
+    {
+        "Ticker": 5471,
+        "Name": "松翰",
+        "Industry": "半導體"
+    },
+    {
+        "Ticker": 5484,
+        "Name": "慧友",
+        "Industry": "光電業"
+    },
+    {
+        "Ticker": 5515,
+        "Name": "建國",
+        "Industry": "建材營造"
+    },
+    {
+        "Ticker": 5519,
+        "Name": "隆大",
+        "Industry": "建材營造"
+    },
+    {
+        "Ticker": 5521,
+        "Name": "工信",
+        "Industry": "建材營造"
+    },
+    {
+        "Ticker": 5522,
+        "Name": "遠雄",
+        "Industry": "建材營造"
+    },
+    {
+        "Ticker": 5525,
+        "Name": "順天",
+        "Industry": "建材營造"
+    },
+    {
+        "Ticker": 5531,
+        "Name": "鄉林",
+        "Industry": "建材營造"
+    },
+    {
+        "Ticker": 5533,
+        "Name": "皇鼎",
+        "Industry": "建材營造"
+    },
+    {
+        "Ticker": 5534,
+        "Name": "長虹",
+        "Industry": "建材營造"
+    },
+    {
+        "Ticker": 5538,
+        "Name": "東明-KY",
+        "Industry": "鋼鐵工業"
+    },
+    {
+        "Ticker": 5546,
+        "Name": "永固-KY",
+        "Industry": "建材營造"
+    },
+    {
+        "Ticker": 5607,
+        "Name": "遠雄港",
+        "Industry": "航運業"
+    },
+    {
+        "Ticker": 5608,
+        "Name": "四維航",
+        "Industry": "航運業"
+    },
+    {
+        "Ticker": 5706,
+        "Name": "鳳凰",
+        "Industry": "觀光餐旅"
+    },
+    {
+        "Ticker": 5871,
+        "Name": "中租-KY",
+        "Industry": "其他"
+    },
+    {
+        "Ticker": 5876,
+        "Name": "上海商銀",
+        "Industry": "金融業"
+    },
+    {
+        "Ticker": 5880,
+        "Name": "合庫金",
+        "Industry": "金融業"
+    },
+    {
+        "Ticker": 5906,
+        "Name": "台南-KY",
+        "Industry": "貿易百貨"
+    },
+    {
+        "Ticker": 5907,
+        "Name": "大洋-KY",
+        "Industry": "貿易百貨"
+    },
+    {
+        "Ticker": 6005,
+        "Name": "群益證",
+        "Industry": "金融業"
+    },
+    {
+        "Ticker": 6024,
+        "Name": "群益期",
+        "Industry": "金融業"
+    },
+    {
+        "Ticker": 6108,
+        "Name": "競國",
+        "Industry": "電子零組件"
+    },
+    {
+        "Ticker": 6112,
+        "Name": "邁達特",
+        "Industry": "資訊服務業"
+    },
+    {
+        "Ticker": 6115,
+        "Name": "鎰勝",
+        "Industry": "電子零組件"
+    },
+    {
+        "Ticker": 6116,
+        "Name": "彩晶",
+        "Industry": "光電業"
+    },
+    {
+        "Ticker": 6117,
+        "Name": "迎廣",
+        "Industry": "電腦及週邊"
+    },
+    {
+        "Ticker": 6120,
+        "Name": "達運",
+        "Industry": "光電業"
+    },
+    {
+        "Ticker": 6128,
+        "Name": "上福",
+        "Industry": "電腦及週邊"
+    },
+    {
+        "Ticker": 6133,
+        "Name": "金橋",
+        "Industry": "電子零組件"
+    },
+    {
+        "Ticker": 6136,
+        "Name": "富爾特",
+        "Industry": "通信網路業"
+    },
+    {
+        "Ticker": 6139,
+        "Name": "亞翔",
+        "Industry": "其他電子業"
+    },
+    {
+        "Ticker": 6141,
+        "Name": "柏承",
+        "Industry": "電子零組件"
+    },
+    {
+        "Ticker": 6142,
+        "Name": "友勁",
+        "Industry": "通信網路業"
+    },
+    {
+        "Ticker": 6152,
+        "Name": "百一",
+        "Industry": "通信網路業"
+    },
+    {
+        "Ticker": 6153,
+        "Name": "嘉聯益",
+        "Industry": "電子零組件"
+    },
+    {
+        "Ticker": 6155,
+        "Name": "鈞寶",
+        "Industry": "電子零組件"
+    },
+    {
+        "Ticker": 6164,
+        "Name": "華興",
+        "Industry": "光電業"
+    },
+    {
+        "Ticker": 6165,
+        "Name": "浪凡",
+        "Industry": "其他"
+    },
+    {
+        "Ticker": 6166,
+        "Name": "凌華",
+        "Industry": "電腦及週邊"
+    },
+    {
+        "Ticker": 6168,
+        "Name": "宏齊",
+        "Industry": "光電業"
+    },
+    {
+        "Ticker": 6176,
+        "Name": "瑞儀",
+        "Industry": "光電業"
+    },
+    {
+        "Ticker": 6177,
+        "Name": "達麗",
+        "Industry": "建材營造"
+    },
+    {
+        "Ticker": 6183,
+        "Name": "關貿",
+        "Industry": "資訊服務業"
+    },
+    {
+        "Ticker": 6184,
+        "Name": "大豐電",
+        "Industry": "其他"
+    },
+    {
+        "Ticker": 6189,
+        "Name": "豐藝",
+        "Industry": "電子通路業"
+    },
+    {
+        "Ticker": 6191,
+        "Name": "精成科",
+        "Industry": "電子零組件"
+    },
+    {
+        "Ticker": 6192,
+        "Name": "巨路",
+        "Industry": "其他電子業"
+    },
+    {
+        "Ticker": 6196,
+        "Name": "帆宣",
+        "Industry": "其他電子業"
+    },
+    {
+        "Ticker": 6197,
+        "Name": "佳必琪",
+        "Industry": "電子零組件"
+    },
+    {
+        "Ticker": 6201,
+        "Name": "亞弘電",
+        "Industry": "其他電子業"
+    },
+    {
+        "Ticker": 6202,
+        "Name": "盛群",
+        "Industry": "半導體"
+    },
+    {
+        "Ticker": 6205,
+        "Name": "詮欣",
+        "Industry": "電子零組件"
+    },
+    {
+        "Ticker": 6206,
+        "Name": "飛捷",
+        "Industry": "電腦及週邊"
+    },
+    {
+        "Ticker": 6209,
+        "Name": "今國光",
+        "Industry": "光電業"
+    },
+    {
+        "Ticker": 6213,
+        "Name": "聯茂",
+        "Industry": "電子零組件"
+    },
+    {
+        "Ticker": 6214,
+        "Name": "精誠",
+        "Industry": "資訊服務業"
+    },
+    {
+        "Ticker": 6215,
+        "Name": "和椿",
+        "Industry": "其他電子業"
+    },
+    {
+        "Ticker": 6216,
+        "Name": "居易",
+        "Industry": "通信網路業"
+    },
+    {
+        "Ticker": 6224,
+        "Name": "聚鼎",
+        "Industry": "電子零組件"
+    },
+    {
+        "Ticker": 6225,
+        "Name": "天瀚",
+        "Industry": "光電業"
+    },
+    {
+        "Ticker": 6226,
+        "Name": "光鼎",
+        "Industry": "光電業"
+    },
+    {
+        "Ticker": 6230,
+        "Name": "尼得科超眾",
+        "Industry": "電腦及週邊"
+    },
+    {
+        "Ticker": 6235,
+        "Name": "華孚",
+        "Industry": "電腦及週邊"
+    },
+    {
+        "Ticker": 6239,
+        "Name": "力成",
+        "Industry": "半導體"
+    },
+    {
+        "Ticker": 6243,
+        "Name": "迅杰",
+        "Industry": "半導體"
+    },
+    {
+        "Ticker": 6257,
+        "Name": "矽格",
+        "Industry": "半導體"
+    },
+    {
+        "Ticker": 6269,
+        "Name": "台郡",
+        "Industry": "電子零組件"
+    },
+    {
+        "Ticker": 6271,
+        "Name": "同欣電",
+        "Industry": "半導體"
+    },
+    {
+        "Ticker": 6277,
+        "Name": "宏正",
+        "Industry": "電腦及週邊"
+    },
+    {
+        "Ticker": 6278,
+        "Name": "台表科",
+        "Industry": "光電業"
+    },
+    {
+        "Ticker": 6281,
+        "Name": "全國電",
+        "Industry": "電子通路業"
+    },
+    {
+        "Ticker": 6282,
+        "Name": "康舒",
+        "Industry": "電子零組件"
+    },
+    {
+        "Ticker": 6283,
+        "Name": "淳安",
+        "Industry": "其他電子業"
+    },
+    {
+        "Ticker": 6285,
+        "Name": "啟碁",
+        "Industry": "通信網路業"
+    },
+    {
+        "Ticker": 6288,
+        "Name": "聯嘉",
+        "Industry": "汽車工業"
+    },
+    {
+        "Ticker": 6405,
+        "Name": "悅城",
+        "Industry": "光電業"
+    },
+    {
+        "Ticker": 6409,
+        "Name": "旭隼",
+        "Industry": "其他電子業"
+    },
+    {
+        "Ticker": 6412,
+        "Name": "群電",
+        "Industry": "電子零組件"
+    },
+    {
+        "Ticker": 6414,
+        "Name": "樺漢",
+        "Industry": "電腦及週邊"
+    },
+    {
+        "Ticker": 6415,
+        "Name": "矽力*-KY",
+        "Industry": "半導體"
+    },
+    {
+        "Ticker": 6416,
+        "Name": "瑞祺電通",
+        "Industry": "通信網路業"
+    },
+    {
+        "Ticker": 6426,
+        "Name": "統新",
+        "Industry": "通信網路業"
+    },
+    {
+        "Ticker": 6431,
+        "Name": "光麗-KY",
+        "Industry": "生技醫療"
+    },
+    {
+        "Ticker": 6438,
+        "Name": "迅得",
+        "Industry": "其他電子業"
+    },
+    {
+        "Ticker": 6442,
+        "Name": "光聖",
+        "Industry": "通信網路業"
+    },
+    {
+        "Ticker": 6443,
+        "Name": "元晶",
+        "Industry": "光電業"
+    },
+    {
+        "Ticker": 6449,
+        "Name": "鈺邦",
+        "Industry": "電子零組件"
+    },
+    {
+        "Ticker": 6451,
+        "Name": "訊芯-KY",
+        "Industry": "半導體"
+    },
+    {
+        "Ticker": 6456,
+        "Name": "GIS-KY",
+        "Industry": "光電業"
+    },
+    {
+        "Ticker": 6464,
+        "Name": "台數科",
+        "Industry": "其他"
+    },
+    {
+        "Ticker": 6477,
+        "Name": "安集",
+        "Industry": "光電業"
+    },
+    {
+        "Ticker": 6491,
+        "Name": "晶碩",
+        "Industry": "生技醫療"
+    },
+    {
+        "Ticker": 6504,
+        "Name": "南六",
+        "Industry": "其他"
+    },
+    {
+        "Ticker": 6505,
+        "Name": "台塑化",
+        "Industry": "油電燃氣業"
+    },
+    {
+        "Ticker": 6515,
+        "Name": "穎崴",
+        "Industry": "半導體"
+    },
+    {
+        "Ticker": 6525,
+        "Name": "捷敏-KY",
+        "Industry": "半導體"
+    },
+    {
+        "Ticker": 6531,
+        "Name": "愛普*",
+        "Industry": "半導體"
+    },
+    {
+        "Ticker": 6533,
+        "Name": "晶心科",
+        "Industry": "半導體"
+    },
+    {
+        "Ticker": 6541,
+        "Name": "泰福-KY",
+        "Industry": "生技醫療"
+    },
+    {
+        "Ticker": 6550,
+        "Name": "北極星藥業-KY",
+        "Industry": "生技醫療"
+    },
+    {
+        "Ticker": 6552,
+        "Name": "易華電",
+        "Industry": "半導體"
+    },
+    {
+        "Ticker": 6558,
+        "Name": "興能高",
+        "Industry": "其他電子業"
+    },
+    {
+        "Ticker": 6573,
+        "Name": "虹揚-KY",
+        "Industry": "半導體"
+    },
+    {
+        "Ticker": 6579,
+        "Name": "研揚",
+        "Industry": "電腦及週邊"
+    },
+    {
+        "Ticker": 6581,
+        "Name": "鋼聯",
+        "Industry": "其他"
+    },
+    {
+        "Ticker": 6582,
+        "Name": "申豐",
+        "Industry": "橡膠工業"
+    },
+    {
+        "Ticker": 6585,
+        "Name": "鼎基",
+        "Industry": "其他"
+    },
+    {
+        "Ticker": 6591,
+        "Name": "動力-KY",
+        "Industry": "電腦及週邊"
+    },
+    {
+        "Ticker": 6592,
+        "Name": "和潤企業",
+        "Industry": "其他"
+    },
+    {
+        "Ticker": 6598,
+        "Name": "ABC-KY",
+        "Industry": "生技醫療"
+    },
+    {
+        "Ticker": 6605,
+        "Name": "帝寶",
+        "Industry": "汽車工業"
+    },
+    {
+        "Ticker": 6625,
+        "Name": "必應",
+        "Industry": "其他"
+    },
+    {
+        "Ticker": 6641,
+        "Name": "基士德-KY",
+        "Industry": "其他"
+    },
+    {
+        "Ticker": 6655,
+        "Name": "科定",
+        "Industry": "其他"
+    },
+    {
+        "Ticker": 6666,
+        "Name": "羅麗芬-KY",
+        "Industry": "生技醫療"
+    },
+    {
+        "Ticker": 6668,
+        "Name": "中揚光",
+        "Industry": "光電業"
+    },
+    {
+        "Ticker": 6669,
+        "Name": "緯穎",
+        "Industry": "電腦及週邊"
+    },
+    {
+        "Ticker": 6670,
+        "Name": "復盛應用",
+        "Industry": "其他"
+    },
+    {
+        "Ticker": 6671,
+        "Name": "三能-KY",
+        "Industry": "其他"
+    },
+    {
+        "Ticker": 6672,
+        "Name": "騰輝電子-KY",
+        "Industry": "電子零組件"
+    },
+    {
+        "Ticker": 6674,
+        "Name": "鋐寶科技",
+        "Industry": "通信網路業"
+    },
+    {
+        "Ticker": 6689,
+        "Name": "伊雲谷",
+        "Industry": "其他電子業"
+    },
+    {
+        "Ticker": 6691,
+        "Name": "洋基工程",
+        "Industry": "其他電子業"
+    },
+    {
+        "Ticker": 6695,
+        "Name": "芯鼎",
+        "Industry": "半導體"
+    },
+    {
+        "Ticker": 6698,
+        "Name": "旭暉應材",
+        "Industry": "其他電子業"
+    },
+    {
+        "Ticker": 6706,
+        "Name": "惠特",
+        "Industry": "光電業"
+    },
+    {
+        "Ticker": 6715,
+        "Name": "嘉基",
+        "Industry": "電子零組件"
+    },
+    {
+        "Ticker": 6719,
+        "Name": "力智",
+        "Industry": "半導體"
+    },
+    {
+        "Ticker": 6743,
+        "Name": "安普新",
+        "Industry": "其他電子業"
+    },
+    {
+        "Ticker": 6754,
+        "Name": "匯僑設計",
+        "Industry": "其他"
+    },
+    {
+        "Ticker": 6756,
+        "Name": "威鋒電子",
+        "Industry": "半導體"
+    },
+    {
+        "Ticker": 6768,
+        "Name": "志強-KY",
+        "Industry": "其他"
+    },
+    {
+        "Ticker": 6770,
+        "Name": "力積電",
+        "Industry": "半導體"
+    },
+    {
+        "Ticker": 6776,
+        "Name": "展碁國際",
+        "Industry": "電子通路業"
+    },
+    {
+        "Ticker": 6781,
+        "Name": "AES-KY",
+        "Industry": "電子零組件"
+    },
+    {
+        "Ticker": 6782,
+        "Name": "視陽",
+        "Industry": "生技醫療"
+    },
+    {
+        "Ticker": 6789,
+        "Name": "采鈺",
+        "Industry": "半導體"
+    },
+    {
+        "Ticker": 6790,
+        "Name": "永豐實",
+        "Industry": "造紙工業"
+    },
+    {
+        "Ticker": 6792,
+        "Name": "詠業",
+        "Industry": "通信網路業"
+    },
+    {
+        "Ticker": 6796,
+        "Name": "晉弘",
+        "Industry": "生技醫療"
+    },
+    {
+        "Ticker": 6799,
+        "Name": "來頡",
+        "Industry": "半導體"
+    },
+    {
+        "Ticker": 6806,
+        "Name": "森崴能源",
+        "Industry": "其他"
+    },
+    {
+        "Ticker": 6807,
+        "Name": "峰源-KY",
+        "Industry": "其他"
+    },
+    {
+        "Ticker": 6830,
+        "Name": "汎銓",
+        "Industry": "其他電子業"
+    },
+    {
+        "Ticker": 6834,
+        "Name": "天二科技",
+        "Industry": "電子零組件"
+    },
+    {
+        "Ticker": 6835,
+        "Name": "圓裕",
+        "Industry": "電子零組件"
+    },
+    {
+        "Ticker": 8011,
+        "Name": "台通",
+        "Industry": "通信網路業"
+    },
+    {
+        "Ticker": 8016,
+        "Name": "矽創",
+        "Industry": "半導體"
+    },
+    {
+        "Ticker": 8021,
+        "Name": "尖點",
+        "Industry": "其他電子業"
+    },
+    {
+        "Ticker": 8028,
+        "Name": "昇陽半導體",
+        "Industry": "半導體"
+    },
+    {
+        "Ticker": 8033,
+        "Name": "雷虎",
+        "Industry": "其他"
+    },
+    {
+        "Ticker": 8039,
+        "Name": "台虹",
+        "Industry": "電子零組件"
+    },
+    {
+        "Ticker": 8046,
+        "Name": "南電",
+        "Industry": "電子零組件"
+    },
+    {
+        "Ticker": 8070,
+        "Name": "長華*",
+        "Industry": "電子通路業"
+    },
+    {
+        "Ticker": 8072,
+        "Name": "陞泰",
+        "Industry": "電子通路業"
+    },
+    {
+        "Ticker": 8081,
+        "Name": "致新",
+        "Industry": "半導體"
+    },
+    {
+        "Ticker": 8101,
+        "Name": "華冠",
+        "Industry": "通信網路業"
+    },
+    {
+        "Ticker": 8103,
+        "Name": "瀚荃",
+        "Industry": "電子零組件"
+    },
+    {
+        "Ticker": 8104,
+        "Name": "錸寶",
+        "Industry": "光電業"
+    },
+    {
+        "Ticker": 8105,
+        "Name": "凌巨",
+        "Industry": "光電業"
+    },
+    {
+        "Ticker": 8110,
+        "Name": "華東",
+        "Industry": "半導體"
+    },
+    {
+        "Ticker": 8112,
+        "Name": "至上",
+        "Industry": "電子通路業"
+    },
+    {
+        "Ticker": 8114,
+        "Name": "振樺電",
+        "Industry": "電腦及週邊"
+    },
+    {
+        "Ticker": 8131,
+        "Name": "福懋科",
+        "Industry": "半導體"
+    },
+    {
+        "Ticker": 8150,
+        "Name": "南茂",
+        "Industry": "半導體"
+    },
+    {
+        "Ticker": 8163,
+        "Name": "達方",
+        "Industry": "電腦及週邊"
+    },
+    {
+        "Ticker": 8201,
+        "Name": "無敵",
+        "Industry": "其他電子業"
+    },
+    {
+        "Ticker": 8210,
+        "Name": "勤誠",
+        "Industry": "電腦及週邊"
+    },
+    {
+        "Ticker": 8213,
+        "Name": "志超",
+        "Industry": "電子零組件"
+    },
+    {
+        "Ticker": 8215,
+        "Name": "明基材",
+        "Industry": "光電業"
+    },
+    {
+        "Ticker": 8222,
+        "Name": "寶一",
+        "Industry": "電機機械"
+    },
+    {
+        "Ticker": 8249,
+        "Name": "菱光",
+        "Industry": "電子零組件"
+    },
+    {
+        "Ticker": 8261,
+        "Name": "富鼎",
+        "Industry": "半導體"
+    },
+    {
+        "Ticker": 8271,
+        "Name": "宇瞻",
+        "Industry": "半導體"
+    },
+    {
+        "Ticker": 8341,
+        "Name": "日友",
+        "Industry": "其他"
+    },
+    {
+        "Ticker": 8367,
+        "Name": "建新國際",
+        "Industry": "航運業"
+    },
+    {
+        "Ticker": 8374,
+        "Name": "羅昇",
+        "Industry": "電機機械"
+    },
+    {
+        "Ticker": 8404,
+        "Name": "百和興業-KY",
+        "Industry": "其他"
+    },
+    {
+        "Ticker": 8411,
+        "Name": "福貞-KY",
+        "Industry": "其他"
+    },
+    {
+        "Ticker": 8422,
+        "Name": "可寧衛",
+        "Industry": "其他"
+    },
+    {
+        "Ticker": 8429,
+        "Name": "金麗-KY",
+        "Industry": "貿易百貨"
+    },
+    {
+        "Ticker": 8438,
+        "Name": "昶昕",
+        "Industry": "其他"
+    },
+    {
+        "Ticker": 8442,
+        "Name": "威宏-KY",
+        "Industry": "其他"
+    },
+    {
+        "Ticker": 8443,
+        "Name": "阿瘦",
+        "Industry": "貿易百貨"
+    },
+    {
+        "Ticker": 8454,
+        "Name": "富邦媒",
+        "Industry": "貿易百貨"
+    },
+    {
+        "Ticker": 8462,
+        "Name": "柏文",
+        "Industry": "觀光餐旅"
+    },
+    {
+        "Ticker": 8463,
+        "Name": "潤泰材",
+        "Industry": "其他"
+    },
+    {
+        "Ticker": 8464,
+        "Name": "億豐",
+        "Industry": "其他"
+    },
+    {
+        "Ticker": 8466,
+        "Name": "美吉吉-KY",
+        "Industry": "其他"
+    },
+    {
+        "Ticker": 8467,
+        "Name": "波力-KY",
+        "Industry": "其他"
+    },
+    {
+        "Ticker": 8473,
+        "Name": "山林水",
+        "Industry": "其他"
+    },
+    {
+        "Ticker": 8478,
+        "Name": "東哥遊艇",
+        "Industry": "其他"
+    },
+    {
+        "Ticker": 8481,
+        "Name": "政伸",
+        "Industry": "其他"
+    },
+    {
+        "Ticker": 8482,
+        "Name": "商億-KY",
+        "Industry": "其他"
+    },
+    {
+        "Ticker": 8488,
+        "Name": "吉源-KY",
+        "Industry": "其他"
+    },
+    {
+        "Ticker": 8499,
+        "Name": "鼎炫-KY",
+        "Industry": "其他電子業"
+    },
+    {
+        "Ticker": 8926,
+        "Name": "台汽電",
+        "Industry": "油電燃氣業"
+    },
+    {
+        "Ticker": 8940,
+        "Name": "新天地",
+        "Industry": "觀光餐旅"
+    },
+    {
+        "Ticker": 8996,
+        "Name": "高力",
+        "Industry": "電機機械"
+    },
+    {
+        "Ticker": 9802,
+        "Name": "鈺齊-KY",
+        "Industry": "其他"
+    },
+    {
+        "Ticker": 9902,
+        "Name": "台火",
+        "Industry": "其他"
+    },
+    {
+        "Ticker": 9904,
+        "Name": "寶成",
+        "Industry": "其他"
+    },
+    {
+        "Ticker": 9905,
+        "Name": "大華",
+        "Industry": "其他"
+    },
+    {
+        "Ticker": 9906,
+        "Name": "欣巴巴",
+        "Industry": "建材營造"
+    },
+    {
+        "Ticker": 9907,
+        "Name": "統一實",
+        "Industry": "其他"
+    },
+    {
+        "Ticker": 9908,
+        "Name": "大台北",
+        "Industry": "油電燃氣業"
+    },
+    {
+        "Ticker": 9910,
+        "Name": "豐泰",
+        "Industry": "其他"
+    },
+    {
+        "Ticker": 9911,
+        "Name": "櫻花",
+        "Industry": "其他"
+    },
+    {
+        "Ticker": 9912,
+        "Name": "偉聯",
+        "Industry": "電腦及週邊"
+    },
+    {
+        "Ticker": 9914,
+        "Name": "美利達",
+        "Industry": "其他"
+    },
+    {
+        "Ticker": 9917,
+        "Name": "中保科",
+        "Industry": "其他"
+    },
+    {
+        "Ticker": 9918,
+        "Name": "欣天然",
+        "Industry": "油電燃氣業"
+    },
+    {
+        "Ticker": 9919,
+        "Name": "康那香",
+        "Industry": "其他"
+    },
+    {
+        "Ticker": 9921,
+        "Name": "巨大",
+        "Industry": "其他"
+    },
+    {
+        "Ticker": 9924,
+        "Name": "福興",
+        "Industry": "其他"
+    },
+    {
+        "Ticker": 9925,
+        "Name": "新保",
+        "Industry": "其他"
+    },
+    {
+        "Ticker": 9926,
+        "Name": "新海",
+        "Industry": "油電燃氣業"
+    },
+    {
+        "Ticker": 9927,
+        "Name": "泰銘",
+        "Industry": "其他"
+    },
+    {
+        "Ticker": 9928,
+        "Name": "中視",
+        "Industry": "其他"
+    },
+    {
+        "Ticker": 9929,
+        "Name": "秋雨",
+        "Industry": "其他"
+    },
+    {
+        "Ticker": 9930,
+        "Name": "中聯資源",
+        "Industry": "其他"
+    },
+    {
+        "Ticker": 9931,
+        "Name": "欣高",
+        "Industry": "油電燃氣業"
+    },
+    {
+        "Ticker": 9933,
+        "Name": "中鼎",
+        "Industry": "其他"
+    },
+    {
+        "Ticker": 9934,
+        "Name": "成霖",
+        "Industry": "其他"
+    },
+    {
+        "Ticker": 9935,
+        "Name": "慶豐富",
+        "Industry": "其他"
+    },
+    {
+        "Ticker": 9937,
+        "Name": "全國",
+        "Industry": "油電燃氣業"
+    },
+    {
+        "Ticker": 9938,
+        "Name": "百和",
+        "Industry": "其他"
+    },
+    {
+        "Ticker": 9939,
+        "Name": "宏全",
+        "Industry": "其他"
+    },
+    {
+        "Ticker": 9940,
+        "Name": "信義",
+        "Industry": "其他"
+    },
+    {
+        "Ticker": 9941,
+        "Name": "裕融",
+        "Industry": "其他"
+    },
+    {
+        "Ticker": 9942,
+        "Name": "茂順",
+        "Industry": "其他"
+    },
+    {
+        "Ticker": 9943,
+        "Name": "好樂迪",
+        "Industry": "觀光餐旅"
+    },
+    {
+        "Ticker": 9944,
+        "Name": "新麗",
+        "Industry": "其他"
+    },
+    {
+        "Ticker": 9945,
+        "Name": "潤泰新",
+        "Industry": "其他"
+    },
+    {
+        "Ticker": 9946,
+        "Name": "三發地產",
+        "Industry": "建材營造"
+    },
+    {
+        "Ticker": 9955,
+        "Name": "佳龍",
+        "Industry": "其他"
+    },
+    {
+        "Ticker": 9958,
+        "Name": "世紀鋼",
+        "Industry": "鋼鐵工業"
+    }
+]
